@@ -1,46 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A88C52,100:191613&height=200&section=header&text=William%20Nayar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:191613&height=220&section=header&text=William%20Nayar&fontSize=48&fontColor=A88C52&animation=fadeIn&fontAlignY=38"/>
 
 ## Hey there,
 
-I'm William, a Computer Science student at the National University of Singapore (NUS) specializing in Software Engineering and full-stack systems development.
+I'm William, a Computer Science student at the National University of Singapore (NUS), focused on full-stack software engineering and production system development.
 
-• 🧠 Founder of Aqua Vitae Parfums, where I engineered and deployed a production-grade React frontend integrated with a Shopify backend for secure global checkout.
+• 🧠 Founder of Aqua Vitae Parfums — engineered and deployed a production-grade React frontend integrated with a headless Shopify backend.
 
-• ⚙️ Developed PeerPrep, a microservices-based MERN platform supporting scalable coding interview workflows with independent backend services and distributed architecture.
+• ⚙️ Developed PeerPrep — a microservices MERN platform designed for scalable interview preparation workflows.
 
-• 🧩 Built multiple full-stack applications using React, Node.js, Express, and MongoDB, focusing on modular architecture, scalability, and clean system design.
+• 🧩 Architect and build full-stack applications using React, Node.js, Express, and MongoDB with emphasis on modular, scalable system design.
 
-• 🚀 Deployed production applications using Vercel, MongoDB Atlas, and modern CI/CD pipelines.
+• 🚀 Deploy production infrastructure using Vercel, MongoDB Atlas, and modern deployment pipelines.
 
-• 🎓 Previously deployed a production website for a client with custom domain infrastructure, DNS routing, and analytics integration.
----
-
-## 🛠 A collection of the tools and technologies I work with
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash"/>
-
-### ⚛️ Frontend Development
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,vite"/>
-
-### 🧩 Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql"/>
-
-### 🚀 DevOps & Deployment
-<img src="https://skillicons.dev/icons?i=vercel,docker,git,github"/>
-
-### 🎨 Tools, Libraries & Design
-<img src="https://skillicons.dev/icons?i=vscode,figma"/>
+• 🎓 Previously deployed production client websites with full DNS configuration, hosting infrastructure, and analytics integration.
 
 ---
 
-## 🤝 Always happy to connect
+## 🛠 Technologies I work with
 
-💼 LinkedIn  
-[linkedin.com/in/william-nayar](https://www.linkedin.com/in/william-nayar/)
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
 
-💻 GitHub  
-[github.com/Wnayar](https://github.com/Wnayar)
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,vite&theme=dark"/>
 
-🌐 Aqua Vitae Parfums  
-[aquavitaeparfums.com](https://www.aquavitaeparfums.com/)
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark"/>
+
+### DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=vercel,docker,git,github&theme=dark"/>
+
+### Tools & Design
+<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark"/>
+
+---
+
+## Connect
+
+<a href="https://www.linkedin.com/in/william-nayar/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
+</a>
+
+<a href="https://github.com/Wnayar">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A88C52"/>
+</a>
+
+<a href="https://www.aquavitaeparfums.com/">
+  <img src="https://img.shields.io/badge/Aqua%20Vitae-000000?style=for-the-badge&logoColor=A88C52"/>
+</a>
