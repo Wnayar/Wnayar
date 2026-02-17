@@ -13,11 +13,9 @@ Currently seeking Software Engineering Internship opportunities.
 ## Engineering Experience
 
 ### Aqua Vitae — Production React Application
-Deployed production frontend integrated with Shopify backend.
 
 • Developed modular React frontend using TypeScript and Tailwind CSS  
 • Architected reusable component system and scalable frontend structure  
-• Implemented state management and client-side routing  
 • Integrated external Shopify checkout enabling real transaction processing  
 • Deployed production system using Vercel  
 
@@ -29,8 +27,7 @@ Stack: React • TypeScript • Tailwind • Shopify • Vercel
 
 • Developed backend microservice exposing 15 REST API endpoints  
 • Designed MongoDB schema supporting scalable data retrieval  
-• Implemented filtering, querying, and aggregation pipelines  
-• Built service for independent deployment within microservices architecture  
+• Implemented aggregation pipelines and scalable querying  
 
 Stack: Node.js • Express • TypeScript • MongoDB  
 
@@ -38,8 +35,7 @@ Stack: Node.js • Express • TypeScript • MongoDB
 
 ### NUS GroupMatch — Full-Stack MERN Application
 
-• Built backend REST API with modular architecture  
-• Designed persistent MongoDB data layer  
+• Built backend REST API and persistent MongoDB data layer  
 • Developed dynamic React frontend  
 • Structured scalable full-stack architecture  
 
@@ -68,5 +64,12 @@ Tools
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/william-nayar/  
-Email: wnayar98@gmail.com
+<p>
+<a href="https://www.linkedin.com/in/william-nayar/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
+</a>
+
+<a href="mailto:wnayar98@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A88C52"/>
+</a>
+</p>
