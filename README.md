@@ -1,118 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:050505,100:000000&height=240&section=header&text=William%20Nayar&fontSize=54&fontAlign=50&fontAlignY=50&animation=fadeIn&fontColor=A88C52"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:A88C52&height=220&section=header&text=William%20Nayar&fontSize=54&fontAlign=50&fontAlignY=50&fontColor=ffffff"/>
 
-<h2 align="center">Software Engineering Student @ National University of Singapore</h2>
+## William Nayar
 
-<p align="center">
-Full-Stack Engineer focused on building scalable production systems, microservices architectures, and modern web infrastructure.
-</p>
+Computer Science student specializing in Software Engineering at the National University of Singapore.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/william-nayar/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
-</a>
+Focused on full-stack development, backend systems, and scalable production infrastructure. Experienced in designing and deploying real-world applications using modern web technologies and distributed system architecture.
 
-<a href="mailto:wnayar98@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A88C52"/>
-</a>
-</p>
+Currently seeking Software Engineering Internship opportunities.
 
 ---
 
-# About Me
+## Engineering Experience
 
-I am a Computer Science student at the National University of Singapore specializing in software engineering, focused on building production-grade applications with scalable backend systems and modern frontend architectures.
+### Aqua Vitae — Production React Application
+Deployed production frontend integrated with Shopify backend.
 
-My work emphasizes:
-
-• Full-stack application architecture  
-• Microservices design and distributed systems  
-• Production deployment and infrastructure  
-• Performance, scalability, and maintainability  
-
-Currently seeking Software Engineering Internship roles.
-
----
-
-# Selected Engineering Work
-
-## Aqua Vitae — Production Deployed E-Commerce Platform
-
-Production React application integrated with Shopify backend.
-
-• Built modular React frontend using TypeScript and Tailwind  
+• Developed modular React frontend using TypeScript and Tailwind CSS  
 • Architected reusable component system and scalable frontend structure  
-• Implemented client-side routing and persistent state management  
-• Integrated secure checkout via external Shopify infrastructure  
-• Deployed production system on Vercel with CI/CD pipeline  
+• Implemented state management and client-side routing  
+• Integrated external Shopify checkout enabling real transaction processing  
+• Deployed production system using Vercel  
 
-Stack: React • TypeScript • Tailwind • Vite • Shopify • Vercel
+Stack: React • TypeScript • Tailwind • Shopify • Vercel  
 
 ---
 
-## PeerPrep — Distributed Microservices Backend
-
-Microservices platform designed for scalable interview preparation workflows.
+### PeerPrep — Microservices Backend System
 
 • Developed backend microservice exposing 15 REST API endpoints  
-• Designed MongoDB schema supporting efficient querying and retrieval  
-• Implemented filtering and aggregation pipelines  
-• Built scalable service architecture for independent deployment  
-• Tested and validated endpoints using Postman  
+• Designed MongoDB schema supporting scalable data retrieval  
+• Implemented filtering, querying, and aggregation pipelines  
+• Built service for independent deployment within microservices architecture  
 
-Stack: Node.js • Express • TypeScript • MongoDB • Microservices
+Stack: Node.js • Express • TypeScript • MongoDB  
 
 ---
 
-## NUS GroupMatch — Full-Stack MERN Platform
+### NUS GroupMatch — Full-Stack MERN Application
 
-Full-stack application enabling automated project team formation.
-
-• Built backend REST API with structured controller architecture  
-• Designed persistent MongoDB database schema  
+• Built backend REST API with modular architecture  
+• Designed persistent MongoDB data layer  
 • Developed dynamic React frontend  
-• Implemented modular frontend/backend separation  
+• Structured scalable full-stack architecture  
 
-Stack: MongoDB • Express • React • Node.js
+Stack: MongoDB • Express • React • Node.js  
 
 ---
 
-# Technical Stack
+## Technical Skills
 
-Languages
-
+Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
 
-Frontend
-
+Frontend  
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
 
-Backend
-
+Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark"/>
 
-Infrastructure
-
+Infrastructure  
 <img src="https://skillicons.dev/icons?i=docker,vercel,git,github&theme=dark"/>
 
-Tools
-
+Tools  
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark"/>
 
 ---
 
-# Engineering Focus
+## Contact
 
-My primary interests are:
-
-• Backend and distributed systems  
-• Production infrastructure and deployment  
-• Full-stack architecture and system design  
-• Performance optimization and scalability  
-
----
-
-# Connect
-
-<a href="https://www.linkedin.com/in/william-nayar/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
-</a>
+LinkedIn: https://www.linkedin.com/in/william-nayar/  
+Email: wnayar98@gmail.com
