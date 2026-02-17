@@ -13,9 +13,6 @@ I'm William, a Computer Science student at the National University of Singapore 
 • 🚀 Deployed production applications using Vercel, MongoDB Atlas, and modern CI/CD pipelines.
 
 • 🎓 Previously deployed a production website for a client with custom domain infrastructure, DNS routing, and analytics integration.
-
-• 🌐 You can explore my work and connect with me below.
-
 ---
 
 ## 🛠 A collection of the tools and technologies I work with
