@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:191613&height=220&section=header&text=William%20Nayar&fontSize=48&fontColor=A88C52&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=260&section=header&text=William%20Nayar&fontSize=56&fontColor=A88C52&stroke=A88C52&strokeWidth=0.6&fontAlign=50&fontAlignY=52"/>
 
 ## Hey there,
 
