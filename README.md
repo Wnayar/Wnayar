@@ -14,7 +14,7 @@ I'm William, a Computer Science student at the National University of Singapore 
 
 • 🎓 Previously deployed a production website for a client with custom domain infrastructure, DNS routing, and analytics integration.
 
-• 🌐 You can view my projects on my GitHub and connect with me on LinkedIn.
+• 🌐 You can explore my work and connect with me below.
 
 ---
 
@@ -37,45 +37,13 @@ I'm William, a Computer Science student at the National University of Singapore 
 
 ---
 
-## 🚀 Featured Projects
-
-### Aqua Vitae Parfums
-Luxury perfume e-commerce platform  
-React • TypeScript • Tailwind • Shopify • Vercel  
-
-• Designed complete frontend architecture and UI system  
-• Integrated secure checkout flow with Shopify backend  
-• Deployed production system with global routing  
-
----
-
-### PeerPrep
-Microservices interview preparation platform  
-MongoDB • Express • React • Node.js • TypeScript  
-
-• Built scalable microservices backend architecture  
-• Implemented distributed REST APIs and database schemas  
-• Engineered responsive frontend with real-time workflows  
-
----
-
-### NUS Group Match
-Team formation platform  
-MongoDB • Express • React • Node.js  
-
-• Developed full-stack application enabling dynamic team formation  
-• Implemented backend APIs and frontend workflows  
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Wnayar&show_icons=true&theme=dark"/>
-
----
-
 ## 🤝 Always happy to connect
 
 💼 LinkedIn  
+[linkedin.com/in/william-nayar](https://www.linkedin.com/in/william-nayar/)
+
 💻 GitHub  
-🌐 Portfolio (Aqua Vitae)
+[github.com/Wnayar](https://github.com/Wnayar)
+
+🌐 Aqua Vitae Parfums  
+[aquavitaeparfums.com](https://www.aquavitaeparfums.com/)
