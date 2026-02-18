@@ -6,8 +6,6 @@ Computer Science student specializing in Software Engineering at the National Un
 
 Focused on full-stack development, backend systems, and scalable production infrastructure. Experienced in designing and deploying real-world applications using modern web technologies and distributed system architecture.
 
-Currently seeking Software Engineering Internship opportunities.
-
 ---
 
 ## Engineering Experience
