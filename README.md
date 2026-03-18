@@ -2,13 +2,9 @@
   <img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=William%20Nayar&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&font=Playfair%20Display&desc=Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=70&descSize=20&descColor=A88C52"/>
 </p>
 
-<p align="center">
-  Computer Science student specializing in Software Engineering at the National University of Singapore.
-</p>
+Computer Science student specializing in Software Engineering at the National University of Singapore.
 
-<p align="center">
-  Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
-</p>
+Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
 
 <hr>
 
@@ -25,11 +21,9 @@
 
 <hr>
 
-### <a href="https://www.aquavitaeparfums.com/" target="_blank">Aqua Vitae</a> — Production React Application
+### Aqua Vitae — Production React Application
 
-<p>
-  🔗 <a href="https://www.aquavitaeparfums.com/" target="_blank">Live Site</a>
-</p>
+🔗 https://www.aquavitaeparfums.com/
 
 • Built and launched a production e-commerce platform for a niche fragrance brand using React and TypeScript  
 • Designed a modular frontend architecture with 14 reusable components, improving maintainability and development speed  
@@ -52,11 +46,9 @@
 
 <hr>
 
-### <a href="https://williamdn.pythonanywhere.com/" target="_blank">Personal Portfolio</a> — Full-Stack Web Application
+### Personal Portfolio — Full-Stack Web Application
 
-<p>
-  🔗 <a href="https://williamdn.pythonanywhere.com/" target="_blank">Live Site</a>
-</p>
+🔗 https://williamdn.pythonanywhere.com/
 
 • Developed a personal portfolio website using Flask with server-side routing and dynamic templates  
 • Implemented backend request handling and session management  
@@ -69,30 +61,20 @@
 
 <h2>Technical Skills</h2>
 
-<p><strong>Languages</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
 
-<p><strong>Frontend</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
-</p>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
 
-<p><strong>Backend</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark"/>
-</p>
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark"/>
 
-<p><strong>Infrastructure</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github&theme=dark"/>
-</p>
+**Infrastructure**  
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github&theme=dark"/>
 
-<p><strong>Tools</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark"/>
-</p>
+**Tools**  
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark"/>
 
 <hr>
 
