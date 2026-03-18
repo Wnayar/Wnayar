@@ -2,9 +2,13 @@
   <img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=William%20Nayar&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&font=Playfair%20Display&desc=Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=70&descSize=20&descColor=A88C52"/>
 </p>
 
-Computer Science student specializing in Software Engineering at the National University of Singapore.
+<p align="center">
+  Computer Science student specializing in Software Engineering at the National University of Singapore.
+</p>
 
-Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
+<p align="center">
+  Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
+</p>
 
 <hr>
 
@@ -17,11 +21,15 @@ Focused on building scalable backend systems and full-stack applications, with e
 • Implemented MongoDB aggregation pipelines enabling randomized question selection and efficient querying  
 • Processed the TACO dataset into 300+ curated coding interview problems using a Python data pipeline  
 
-Stack: Node.js • Express • TypeScript • MongoDB  
+**Stack:** Node.js • Express • TypeScript • MongoDB
 
 <hr>
 
-### Aqua Vitae — Production React Application
+### <a href="https://www.aquavitaeparfums.com/" target="_blank">Aqua Vitae</a> — Production React Application
+
+<p>
+  🔗 <a href="https://www.aquavitaeparfums.com/" target="_blank">Live Site</a>
+</p>
 
 • Built and launched a production e-commerce platform for a niche fragrance brand using React and TypeScript  
 • Designed a modular frontend architecture with 14 reusable components, improving maintainability and development speed  
@@ -29,7 +37,7 @@ Stack: Node.js • Express • TypeScript • MongoDB
 • Integrated Shopify checkout for secure payment processing and inventory management  
 • Configured Cloudflare DNS and Vercel deployment to deliver a fast, reliable production system  
 
-Stack: React • TypeScript • Tailwind • Shopify • Vercel  
+**Stack:** React • TypeScript • Tailwind • Shopify • Vercel
 
 <hr>
 
@@ -40,47 +48,61 @@ Stack: React • TypeScript • Tailwind • Shopify • Vercel
 • Designed MongoDB schemas to manage user profiles, groups, and membership relationships  
 • Implemented a dynamic React frontend for searching, joining, and managing study groups  
 
-Stack: MongoDB • Express • React • Node.js  
+**Stack:** MongoDB • Express • React • Node.js
 
 <hr>
 
-### Personal Portfolio — Full-Stack Web Application
+### <a href="https://williamdn.pythonanywhere.com/" target="_blank">Personal Portfolio</a> — Full-Stack Web Application
+
+<p>
+  🔗 <a href="https://williamdn.pythonanywhere.com/" target="_blank">Live Site</a>
+</p>
 
 • Developed a personal portfolio website using Flask with server-side routing and dynamic templates  
 • Implemented backend request handling and session management  
 • Built a responsive frontend using HTML, CSS, JavaScript, and Jinja templates  
 • Deployed the application on PythonAnywhere  
 
-Stack: Python • Flask • HTML • CSS • JavaScript  
+**Stack:** Python • Flask • HTML • CSS • JavaScript
 
 <hr>
 
 <h2>Technical Skills</h2>
 
-Languages  
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
+<p><strong>Languages</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
+</p>
 
-Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
+<p><strong>Frontend</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
+</p>
 
-Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark"/>
+<p><strong>Backend</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark"/>
+</p>
 
-Infrastructure  
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github&theme=dark"/>
+<p><strong>Infrastructure</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github&theme=dark"/>
+</p>
 
-Tools  
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark"/>
+<p><strong>Tools</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark"/>
+</p>
 
 <hr>
 
 <h2>Contact</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/william-nayar/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
   </a>
-
+  &nbsp;
   <a href="mailto:wnayar98@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A88C52"/>
   </a>
