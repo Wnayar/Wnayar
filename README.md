@@ -6,10 +6,9 @@ Computer Science student specializing in Software Engineering at the National Un
 
 Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
 
-
 <hr>
 
-<h2>Selected Work</h2>
+<p><strong style="font-size: 22px;">Selected Work</strong></p>
 
 ### PeerPrep — Microservices Backend System
 
@@ -20,12 +19,11 @@ Focused on building scalable backend systems and full-stack applications, with e
 
 Stack: Node.js • Express • TypeScript • MongoDB
 
-
 <hr>
 
 ### Aqua Vitae — Production React Application
 
-[![Live](https://img.shields.io/badge/Live%20Site-000000?style=flat&logo=vercel&logoColor=A88C52)](https://www.aquavitaeparfums.com/)
+[![Live Site](https://img.shields.io/badge/Live%20Site-000000?style=flat&logoColor=A88C52)](https://www.aquavitaeparfums.com/)
 
 • Built and launched a production e-commerce platform for a niche fragrance brand using React and TypeScript  
 • Designed a modular frontend architecture with 14 reusable components, improving maintainability and development speed  
@@ -34,7 +32,6 @@ Stack: Node.js • Express • TypeScript • MongoDB
 • Configured Cloudflare DNS and Vercel deployment to deliver a fast, reliable production system  
 
 Stack: React • TypeScript • Tailwind • Shopify • Vercel
-
 
 <hr>
 
@@ -47,12 +44,11 @@ Stack: React • TypeScript • Tailwind • Shopify • Vercel
 
 Stack: MongoDB • Express • React • Node.js
 
-
 <hr>
 
 ### Personal Portfolio — Full-Stack Web Application
 
-[![Live](https://img.shields.io/badge/Live%20Site-000000?style=flat&logo=python&logoColor=A88C52)](https://williamdn.pythonanywhere.com/)
+[![Live Site](https://img.shields.io/badge/Live%20Site-000000?style=flat&logoColor=A88C52)](https://williamdn.pythonanywhere.com/)
 
 • Developed a personal portfolio website using Flask with server-side routing and dynamic templates  
 • Implemented backend request handling and session management  
@@ -61,10 +57,9 @@ Stack: MongoDB • Express • React • Node.js
 
 Stack: Python • Flask • HTML • CSS • JavaScript
 
-
 <hr>
 
-<h2>Technical Skills</h2>
+<p><strong style="font-size: 22px;">Technical Skills</strong></p>
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
@@ -83,7 +78,7 @@ Stack: Python • Flask • HTML • CSS • JavaScript
 
 <hr>
 
-<h2>Contact</h2>
+<p><strong style="font-size: 22px;">Contact</strong></p>
 
 <p>
   <a href="https://www.linkedin.com/in/william-nayar/">
