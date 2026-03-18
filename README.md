@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=William%20Nayar&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&font=Playfair%20Display&desc=Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=70&descSize=20&descColor=A88C52"/>
+<p align="center">
+<img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=William%20Nayar&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&font=Playfair%20Display&desc=Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=70&descSize=20&descColor=A88C52"/>
+</p>
 
 ## William Nayar
 
