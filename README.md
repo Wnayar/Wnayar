@@ -80,12 +80,12 @@ Focused on building scalable backend systems and full-stack applications, with e
 
 <h2>Contact</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/william-nayar/">
+<p>
+  <a href="https://www.linkedin.com/in/william-nayar/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
   </a>
-  &nbsp;
-  <a href="mailto:wnayar98@gmail.com">
+
+  <a href="mailto:wnayar98@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A88C52"/>
   </a>
 </p>
