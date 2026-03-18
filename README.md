@@ -4,11 +4,22 @@
 
 Computer Science student specializing in Software Engineering at the National University of Singapore.
 
-Focused on full-stack development, backend systems, and scalable production infrastructure. Experienced in designing and deploying real-world applications using modern web technologies and distributed system architecture.
+Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
 
 ---
 
-## Engineering Experience
+## Selected Work
+
+### PeerPrep — Microservices Backend System
+
+• Built a Question Service microservice within a distributed 6-service coding interview platform  
+• Developed 15 REST API endpoints for question retrieval, filtering, and submission using Node.js and Express  
+• Implemented MongoDB aggregation pipelines enabling randomized question selection and efficient querying  
+• Processed the TACO dataset into 300+ curated coding interview problems using a Python data pipeline  
+
+Stack: Node.js • Express • TypeScript • MongoDB  
+
+---
 
 ### Aqua Vitae — Production React Application
 
@@ -22,17 +33,6 @@ Stack: React • TypeScript • Tailwind • Shopify • Vercel
 
 ---
 
-### PeerPrep — Microservices Backend System
-
-• Built a Question Service microservice within a distributed 6-service coding interview platform  
-• Developed 15 REST API endpoints for question retrieval, filtering, and submission using Node.js and Express  
-• Implemented MongoDB aggregation pipelines enabling randomized question selection and efficient querying  
-• Processed the TACO dataset into 300+ curated coding interview problems using a Python data pipeline  
-
-Stack: Node.js • Express • TypeScript • MongoDB  
-
----
-
 ### NUS GroupMatch — Full-Stack MERN Application
 
 • Developed a full-stack MERN application enabling students to create and discover study groups  
@@ -41,6 +41,17 @@ Stack: Node.js • Express • TypeScript • MongoDB
 • Implemented a dynamic React frontend for searching, joining, and managing study groups  
 
 Stack: MongoDB • Express • React • Node.js  
+
+---
+
+### Personal Portfolio — Full-Stack Web Application
+
+• Developed a personal portfolio website using Flask with server-side routing and dynamic templates  
+• Implemented backend request handling and session management  
+• Built a responsive frontend using HTML, CSS, JavaScript, and Jinja templates  
+• Deployed the application on PythonAnywhere  
+
+Stack: Python • Flask • HTML • CSS • JavaScript  
 
 ---
 
