@@ -1,5 +1,5 @@
 <p align="center">
-<img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=William%20Nayar&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&font=Playfair%20Display&desc=Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=70&descSize=20&descColor=A88C52"/>
+  <img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=William%20Nayar&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&font=Playfair%20Display&desc=Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=70&descSize=20&descColor=A88C52"/>
 </p>
 
 Computer Science student specializing in Software Engineering at the National University of Singapore.
@@ -8,7 +8,7 @@ Focused on building scalable backend systems and full-stack applications, with e
 
 <hr>
 
-## Selected Work
+**Selected Work**
 
 ### PeerPrep — Microservices Backend System
 
@@ -55,7 +55,7 @@ Stack: Python • Flask • HTML • CSS • JavaScript
 
 <hr>
 
-## Technical Skills
+**Technical Skills**
 
 Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
@@ -74,14 +74,14 @@ Tools
 
 <hr>
 
-## Contact
+**Contact**
 
 <p>
-<a href="https://www.linkedin.com/in/william-nayar/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
-</a>
+  <a href="https://www.linkedin.com/in/william-nayar/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
+  </a>
 
-<a href="mailto:wnayar98@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A88C52"/>
-</a>
+  <a href="mailto:wnayar98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A88C52"/>
+  </a>
 </p>
