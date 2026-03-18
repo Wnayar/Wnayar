@@ -8,7 +8,9 @@ Focused on building scalable backend systems and full-stack applications, with e
 
 <hr>
 
-<p><strong style="font-size: 22px;">Selected Work</strong></p>
+<p style="font-size: 26px; font-weight: 600; margin-top: 24px; margin-bottom: 12px;">
+Selected Work
+</p>
 
 ### PeerPrep — Microservices Backend System
 
@@ -19,7 +21,9 @@ Focused on building scalable backend systems and full-stack applications, with e
 
 Stack: Node.js • Express • TypeScript • MongoDB
 
+
 <hr>
+
 
 ### Aqua Vitae — Production React Application
 
@@ -33,7 +37,9 @@ Stack: Node.js • Express • TypeScript • MongoDB
 
 Stack: React • TypeScript • Tailwind • Shopify • Vercel
 
+
 <hr>
+
 
 ### NUS GroupMatch — Full-Stack MERN Application
 
@@ -44,7 +50,9 @@ Stack: React • TypeScript • Tailwind • Shopify • Vercel
 
 Stack: MongoDB • Express • React • Node.js
 
+
 <hr>
+
 
 ### Personal Portfolio — Full-Stack Web Application
 
@@ -57,9 +65,12 @@ Stack: MongoDB • Express • React • Node.js
 
 Stack: Python • Flask • HTML • CSS • JavaScript
 
+
 <hr>
 
-<p><strong style="font-size: 22px;">Technical Skills</strong></p>
+<p style="font-size: 26px; font-weight: 600; margin-top: 24px; margin-bottom: 12px;">
+Technical Skills
+</p>
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
@@ -78,7 +89,9 @@ Stack: Python • Flask • HTML • CSS • JavaScript
 
 <hr>
 
-<p><strong style="font-size: 22px;">Contact</strong></p>
+<p style="font-size: 26px; font-weight: 600; margin-top: 24px; margin-bottom: 12px;">
+Contact
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/william-nayar/">
