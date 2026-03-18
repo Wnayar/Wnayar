@@ -6,7 +6,7 @@ Computer Science student specializing in Software Engineering at the National Un
 
 Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
 
----
+<hr>
 
 ## Selected Work
 
@@ -19,7 +19,7 @@ Focused on building scalable backend systems and full-stack applications, with e
 
 Stack: Node.js • Express • TypeScript • MongoDB  
 
----
+<hr>
 
 ### Aqua Vitae — Production React Application
 
@@ -31,7 +31,7 @@ Stack: Node.js • Express • TypeScript • MongoDB
 
 Stack: React • TypeScript • Tailwind • Shopify • Vercel  
 
----
+<hr>
 
 ### NUS GroupMatch — Full-Stack MERN Application
 
@@ -42,7 +42,7 @@ Stack: React • TypeScript • Tailwind • Shopify • Vercel
 
 Stack: MongoDB • Express • React • Node.js  
 
----
+<hr>
 
 ### Personal Portfolio — Full-Stack Web Application
 
@@ -53,7 +53,7 @@ Stack: MongoDB • Express • React • Node.js
 
 Stack: Python • Flask • HTML • CSS • JavaScript  
 
----
+<hr>
 
 ## Technical Skills
 
@@ -72,7 +72,7 @@ Infrastructure
 Tools  
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark"/>
 
----
+<hr>
 
 ## Contact
 
