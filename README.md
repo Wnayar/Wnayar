@@ -6,6 +6,11 @@ Computer Science student specializing in Software Engineering at the National Un
 
 Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=A88C52&icon_color=A88C52&text_color=000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=A88C52&text_color=000000" height="150"/>
+</p>
+
 <hr>
 
 <h2>Selected Work</h2>
@@ -17,13 +22,14 @@ Focused on building scalable backend systems and full-stack applications, with e
 • Implemented MongoDB aggregation pipelines enabling randomized question selection and efficient querying  
 • Processed the TACO dataset into 300+ curated coding interview problems using a Python data pipeline  
 
-**Stack:** Node.js • Express • TypeScript • MongoDB
+Stack: Node.js • Express • TypeScript • MongoDB
+
 
 <hr>
 
 ### Aqua Vitae — Production React Application
 
-🔗 https://www.aquavitaeparfums.com/
+[![Live](https://img.shields.io/badge/Live%20Site-000000?style=flat&logo=vercel&logoColor=A88C52)](https://www.aquavitaeparfums.com/)
 
 • Built and launched a production e-commerce platform for a niche fragrance brand using React and TypeScript  
 • Designed a modular frontend architecture with 14 reusable components, improving maintainability and development speed  
@@ -31,7 +37,8 @@ Focused on building scalable backend systems and full-stack applications, with e
 • Integrated Shopify checkout for secure payment processing and inventory management  
 • Configured Cloudflare DNS and Vercel deployment to deliver a fast, reliable production system  
 
-**Stack:** React • TypeScript • Tailwind • Shopify • Vercel
+Stack: React • TypeScript • Tailwind • Shopify • Vercel
+
 
 <hr>
 
@@ -42,20 +49,22 @@ Focused on building scalable backend systems and full-stack applications, with e
 • Designed MongoDB schemas to manage user profiles, groups, and membership relationships  
 • Implemented a dynamic React frontend for searching, joining, and managing study groups  
 
-**Stack:** MongoDB • Express • React • Node.js
+Stack: MongoDB • Express • React • Node.js
+
 
 <hr>
 
 ### Personal Portfolio — Full-Stack Web Application
 
-🔗 https://williamdn.pythonanywhere.com/
+[![Live](https://img.shields.io/badge/Live%20Site-000000?style=flat&logo=python&logoColor=A88C52)](https://williamdn.pythonanywhere.com/)
 
 • Developed a personal portfolio website using Flask with server-side routing and dynamic templates  
 • Implemented backend request handling and session management  
 • Built a responsive frontend using HTML, CSS, JavaScript, and Jinja templates  
 • Deployed the application on PythonAnywhere  
 
-**Stack:** Python • Flask • HTML • CSS • JavaScript
+Stack: Python • Flask • HTML • CSS • JavaScript
+
 
 <hr>
 
@@ -81,11 +90,11 @@ Focused on building scalable backend systems and full-stack applications, with e
 <h2>Contact</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/william-nayar/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/william-nayar/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A88C52"/>
   </a>
 
-  <a href="mailto:wnayar98@gmail.com" style="text-decoration: none;">
+  <a href="mailto:wnayar98@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A88C52"/>
   </a>
 </p>
