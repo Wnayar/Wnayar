@@ -6,7 +6,9 @@ Computer Science student specializing in Software Engineering at the National Un
 
 Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
 
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wnayar&hide_border=true&title_color=A88C52&text_color=000000&show_icons=false&include_all_commits=true&count_private=true"/>
+</p>
 
 <hr>
 
