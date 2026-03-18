@@ -12,10 +12,11 @@ Focused on full-stack development, backend systems, and scalable production infr
 
 ### Aqua Vitae — Production React Application
 
-• Developed modular React frontend using TypeScript and Tailwind CSS  
-• Architected reusable component system and scalable frontend structure  
-• Integrated external Shopify checkout enabling real transaction processing  
-• Deployed production system using Vercel  
+• Built and launched a production e-commerce platform for a niche fragrance brand using React and TypeScript  
+• Designed a modular frontend architecture with 14 reusable components, improving maintainability and development speed  
+• Implemented state management using React Context API with persistent localStorage synchronization  
+• Integrated Shopify checkout for secure payment processing and inventory management  
+• Configured Cloudflare DNS and Vercel deployment to deliver a fast, reliable production system  
 
 Stack: React • TypeScript • Tailwind • Shopify • Vercel  
 
@@ -23,9 +24,10 @@ Stack: React • TypeScript • Tailwind • Shopify • Vercel
 
 ### PeerPrep — Microservices Backend System
 
-• Developed backend microservice exposing 15 REST API endpoints  
-• Designed MongoDB schema supporting scalable data retrieval  
-• Implemented aggregation pipelines and scalable querying  
+• Built a Question Service microservice within a distributed 6-service coding interview platform  
+• Developed 15 REST API endpoints for question retrieval, filtering, and submission using Node.js and Express  
+• Implemented MongoDB aggregation pipelines enabling randomized question selection and efficient querying  
+• Processed the TACO dataset into 300+ curated coding interview problems using a Python data pipeline  
 
 Stack: Node.js • Express • TypeScript • MongoDB  
 
@@ -33,9 +35,10 @@ Stack: Node.js • Express • TypeScript • MongoDB
 
 ### NUS GroupMatch — Full-Stack MERN Application
 
-• Built backend REST API and persistent MongoDB data layer  
-• Developed dynamic React frontend  
-• Structured scalable full-stack architecture  
+• Developed a full-stack MERN application enabling students to create and discover study groups  
+• Built backend REST APIs with authentication and structured routing using Node.js and Express  
+• Designed MongoDB schemas to manage user profiles, groups, and membership relationships  
+• Implemented a dynamic React frontend for searching, joining, and managing study groups  
 
 Stack: MongoDB • Express • React • Node.js  
 
