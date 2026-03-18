@@ -8,7 +8,7 @@ Focused on building scalable backend systems and full-stack applications, with e
 
 <hr>
 
-**Selected Work**
+<h2>Selected Work</h2>
 
 ### PeerPrep — Microservices Backend System
 
@@ -55,7 +55,7 @@ Stack: Python • Flask • HTML • CSS • JavaScript
 
 <hr>
 
-**Technical Skills**
+<h2>Technical Skills</h2>
 
 Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql,html,css,bash&theme=dark"/>
@@ -74,7 +74,7 @@ Tools
 
 <hr>
 
-**Contact**
+<h2>Contact</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/william-nayar/">
