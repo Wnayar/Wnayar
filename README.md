@@ -2,49 +2,52 @@
   <img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=William%20Nayar&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&font=Playfair%20Display&desc=Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=70&descSize=20&descColor=A88C52"/>
 </p>
 
-Computer Science student specializing in Software Engineering at the National University of Singapore.
-
-Focused on building scalable backend systems and full-stack applications, with experience designing and deploying production-ready software using modern web technologies and distributed architectures.
+CS student building scalable backend & full stack apps with Node.js, TypeScript, MongoDB & PostgreSQL
 
 <hr>
 
 ### Selected Work
 
-### PeerPrep — Microservices Backend System
 
-• Built a Question Service microservice within a distributed 6-service coding interview platform  
-• Developed 15 REST API endpoints for question retrieval, filtering, and submission using Node.js and Express  
-• Implemented MongoDB aggregation pipelines enabling randomized question selection and efficient querying  
-• Processed the TACO dataset into 300+ curated coding interview problems using a Python data pipeline  
-
-Stack: Node.js • Express • TypeScript • MongoDB
-
-
-<hr>
-
-
-### Aqua Vitae — Production React Application
+### Aqua Vitae (Own venture)
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-000000?style=flat&logoColor=A88C52)](https://www.aquavitaeparfums.com/)
 
-• Built and launched a production e-commerce platform for a niche fragrance brand using React and TypeScript  
-• Designed a modular frontend architecture with 14 reusable components, improving maintainability and development speed  
-• Implemented state management using React Context API with persistent localStorage synchronization  
-• Integrated Shopify checkout for secure payment processing and inventory management  
-• Configured Cloudflare DNS and Vercel deployment to deliver a fast, reliable production system  
+•	Built and deployed a production e-commerce storefront in React and TypeScript that leverages a Shopify hosted checkout for payment, with product launch target date of Dec 2026
+•	Designed a scalable frontend architecture using re-usable layouts, modals, and state management techniques, enabling ~70% code sharing and efficient creation of new features
+•	Implemented centralized cart state management using React Context and localStorage that allows real-time cart data sharing between different parts of the frontend (Navbar, product page, cart, overlays, etc.)
+•	Configured CI/CD and production deployment through Vercel, Cloudflare DNS, and GitHub automation, and integrated analytics to optimize frontend performance and support early user testing with 100+ visitors
+•	Designed and developed backend systems using Supabase (PostgreSQL) and Vercel Functions, implementing authentication, relational schema design, and caching strategies
 
-Stack: React • TypeScript • Tailwind • Shopify • Vercel
+
+Stack: React • TypeScript • Tailwind • Shopify • Vercel • PostgreSQL • Cloudflare
+
+
+<hr>
+
+### PeerPrep
+
+•	Designed and implemented a Question Service microservice within a distributed 6-service architecture using Node.js, Express, and TypeScript, owning question CRUD operations and randomized selection functionality
+•	Developed 15 RESTful API endpoints for filtering, metadata queries, and dynamic question retrieval
+•	Incorporated input validation, standardized error handling (400/404/409/500), and Mongoose-based schema design to ensure API reliability and data integrity
+•	Built MongoDB aggregation pipelines using $match and $sample to enable efficient randomized question selection with optional filtering, reducing application-layer logic
+•	Processed and transformed 26K+ TACO dataset records into 325 structured coding questions using Python, cleaning, deduplicating, and structuring the data
+•	Wrote 35 automated tests using Jest and Supertest (66%+ coverage), including unit and integration tests validating CRUD workflows and aggregation pipelines 
+
+
+Stack: Node.js • Express • TypeScript • MongoDB • Mongoose • Jest
 
 
 <hr>
 
 
-### NUS GroupMatch — Full-Stack MERN Application
+### NUS Orbital (Apollo 11 – Advanced Level)
 
-• Developed a full-stack MERN application enabling students to create and discover study groups  
-• Built backend REST APIs with authentication and structured routing using Node.js and Express  
-• Designed MongoDB schemas to manage user profiles, groups, and membership relationships  
-• Implemented a dynamic React frontend for searching, joining, and managing study groups  
+•	Developed a full-stack MERN application for NUS students to create and discover study groups, integrating real-time course data from the NUSMods API to support course-based group matching
+•	Built RESTful APIs using Node.js and Express with session-based authentication (express-session, bcrypt) and MVC architecture, designing MongoDB schemas for users, groups, and memberships to ensure data integrity
+•	Integrated the NUSMods API, parsing nested timetable data (20–50+ entries per module) into structured formats, and implementing multi-criteria sorting (lesson type, day, time, class number) and search functionality
+•	Developed a responsive React frontend with dynamic data fetching, real-time validation (Formik), and improved UX through loading states and error handling  
+
 
 Stack: MongoDB • Express • React • Node.js
 
