@@ -31,7 +31,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ## Selected Work
 
-### [Airlock](https://github.com/Wnayar/airlock) &nbsp;<sup><sub>🏆 1st Place</sub></sup>
+### [Airlock](https://github.com/Wnayar/airlock) — 🏆 1st Place
 
 1st place at the Daytona HackSprint. A safety gate that sits between an AI coding agent and every package it tries to install.
 
@@ -51,7 +51,7 @@ Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront,
 
 *Built with:* &nbsp;`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
 
-### [PeerPrep](https://github.com/Wnayar/PeerPrep) &nbsp;<sup><sub>Distributed · 6 Services</sub></sup>
+### [PeerPrep](https://github.com/Wnayar/PeerPrep) — Distributed · 6 Services
 
 Question Service owned end to end within a distributed 6-service architecture.
 
@@ -61,7 +61,7 @@ Question Service owned end to end within a distributed 6-service architecture.
 
 *Built with:* &nbsp;`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
 
-### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) &nbsp;<sup><sub>NUS Orbital · Apollo 11</sub></sup>
+### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) — NUS Orbital · Apollo 11
 
 NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discovering study groups, matched on live NUSMods course data.
 
