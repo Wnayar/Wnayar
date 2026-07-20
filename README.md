@@ -31,7 +31,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ## Selected Work
 
-### [Airlock](https://github.com/Wnayar/airlock) &nbsp;<sub><img src="https://img.shields.io/badge/%F0%9F%8F%86%201st%20Place-070D14?style=flat&logoColor=F0B429" alt="1st Place"/></sub>
+### [Airlock](https://github.com/Wnayar/airlock) &nbsp;<sub>🏆 1st Place</sub>
 
 1st place at the Daytona HackSprint. A safety gate that sits between an AI coding agent and every package it tries to install.
 
@@ -51,7 +51,7 @@ Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront,
 
 *Built with:* &nbsp;`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
 
-### [PeerPrep](https://github.com/Wnayar/PeerPrep) &nbsp;<sub><img src="https://img.shields.io/badge/Distributed%20%C2%B7%206%20Services-070D14?style=flat&logoColor=F0B429" alt="Distributed, 6 services"/></sub>
+### [PeerPrep](https://github.com/Wnayar/PeerPrep) &nbsp;<sub>Distributed · 6 Services</sub>
 
 Question Service owned end to end within a distributed 6-service architecture.
 
@@ -61,7 +61,7 @@ Question Service owned end to end within a distributed 6-service architecture.
 
 *Built with:* &nbsp;`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
 
-### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) &nbsp;<sub><img src="https://img.shields.io/badge/NUS%20Orbital%20%C2%B7%20Apollo%2011-070D14?style=flat&logoColor=F0B429" alt="NUS Orbital, Apollo 11"/></sub>
+### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) &nbsp;<sub>NUS Orbital · Apollo 11</sub>
 
 NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discovering study groups, matched on live NUSMods course data.
 
