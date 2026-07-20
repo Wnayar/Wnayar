@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="900" alt="William Nayar, backend and distributed systems"/>
+  <img src="banner.svg" width="100%" alt="William Nayar, backend and distributed systems"/>
 </p>
 
 <p align="center">
@@ -7,12 +7,19 @@
   <a href="mailto:wnayar98@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-070D14?style=for-the-badge&logo=gmail&logoColor=F0B429"/></a>
 </p>
 
-Final-year CS at NUS specialising in Software Engineering. I build backend systems and care about where work belongs in a system. Looking for a 6-month SWE internship starting early 2027.
+<p align="center">
+Final-year CS at NUS specialising in Software Engineering. I build backend systems and care about where work belongs in a system.<br/>
+Looking for a 6-month SWE internship starting early 2027.
+</p>
+
+---
 
 ## Currently
 
 - Building **Recall**, a search engine in Go, to understand indexing and retrieval by building them rather than reading about them
 - Next: a real-time collaboration platform on TypeScript, Postgres and Redis
+
+---
 
 ## Achievements
 
@@ -20,9 +27,11 @@ Final-year CS at NUS specialising in Software Engineering. I build backend syste
 - **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
 - **Merged open source PRs** in [Automattic/mongoose](https://github.com/Automattic/mongoose) and [redis/node-redis](https://github.com/redis/node-redis), gaps I found by reading the source rather than working off issue labels
 
+---
+
 ## Selected Work
 
-### Airlock
+### Airlock &nbsp;![1st Place](https://img.shields.io/badge/%F0%9F%8F%86%201st%20Place-070D14?style=flat&logoColor=F0B429)
 
 1st place at the Daytona HackSprint. A safety gate that sits between an AI coding agent and every package it tries to install.
 
@@ -30,7 +39,7 @@ Final-year CS at NUS specialising in Software Engineering. I build backend syste
 - Enforced as a hook rather than a wrapper, so the agent cannot route around it
 - Weekend team build; the concept and system design were mine
 
-`Daytona` `Nosana` `Doubleword` `Oxylabs` `ai&`
+*Sponsors:* &nbsp;`Daytona` `Nosana` `Doubleword` `Oxylabs` `ai&`
 
 ### Aqua Vitae &nbsp;[![Live](https://img.shields.io/badge/Live%20Site-070D14?style=flat&logoColor=F0B429)](https://www.aquavitaeparfums.com/)
 
@@ -40,9 +49,9 @@ Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront,
 - React and TypeScript storefront with a Shopify hosted checkout, keeping payments and PCI scope off my stack
 - CI/CD through Vercel, Cloudflare DNS and GitHub automation, with analytics supporting early testing across 100+ visitors
 
-`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
+*Built with:* &nbsp;`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
 
-### PeerPrep
+### PeerPrep &nbsp;![Team of 6](https://img.shields.io/badge/Distributed%20%C2%B7%206%20Services-070D14?style=flat&logoColor=F0B429)
 
 Question Service owned end to end within a distributed 6-service architecture.
 
@@ -50,24 +59,26 @@ Question Service owned end to end within a distributed 6-service architecture.
 - Moved randomized question selection into MongoDB aggregation pipelines ($match, $sample) instead of the application layer
 - 35 unit and integration tests with Jest and Supertest covering CRUD workflows and the pipelines
 
-`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
+*Built with:* &nbsp;`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
 
-### Study-group platform
+### Study-group platform &nbsp;![Orbital](https://img.shields.io/badge/NUS%20Orbital%20%C2%B7%20Apollo%2011-070D14?style=flat&logoColor=F0B429)
 
 NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discovering study groups, matched on live NUSMods course data.
 
 - REST APIs with session-based auth (express-session, bcrypt) and MVC structure, with MongoDB schemas for users, groups and memberships
 - Parsed nested timetable data (20 to 50+ entries per module) into structured formats with multi-criteria sorting and search
 
-`MongoDB` `Express` `React` `Node.js`
+*Built with:* &nbsp;`MongoDB` `Express` `React` `Node.js`
+
+---
 
 ## Technical Skills
 
-| | |
+| Category | Stack |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="42"/> <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="42"/> <img src="https://skillicons.dev/icons?i=go" title="Go" width="42"/> <img src="https://skillicons.dev/icons?i=python" title="Python" width="42"/> <img src="https://skillicons.dev/icons?i=java" title="Java" width="42"/> <img src="https://skillicons.dev/icons?i=c" title="C" width="42"/> <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="42"/> <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="42"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="42"/> <img src="https://skillicons.dev/icons?i=express" title="Express" width="42"/> <img src="https://skillicons.dev/icons?i=flask" title="Flask" width="42"/> |
-| **Data** | <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="42"/> <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" width="42"/> <img src="https://skillicons.dev/icons?i=redis" title="Redis" width="42"/> <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" width="42"/> <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="42"/> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="42"/> |
-| **Infra & Cloud** | <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="42"/> <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" width="42"/> <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="42"/> <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="42"/> <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" width="42"/> <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" width="42"/> <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="42"/> <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="42"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react" title="React" width="42"/> <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="42"/> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="42"/> <img src="https://skillicons.dev/icons?i=vite" title="Vite" width="42"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git" title="Git" width="42"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="42"/> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="42"/> <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="42"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" width="38"/> <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" width="38"/> <img src="https://skillicons.dev/icons?i=go&theme=dark" title="Go" width="38"/> <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" width="38"/> <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" width="38"/> <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" width="38"/> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" width="38"/> <img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" width="38"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" width="38"/> <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" width="38"/> <img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" width="38"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" width="38"/> <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" width="38"/> <img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" width="38"/> <img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" width="38"/> <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" width="38"/> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" width="38"/> |
+| **Infra & Cloud** | <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" width="38"/> <img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="Google Cloud" width="38"/> <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" width="38"/> <img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" width="38"/> <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" title="Cloudflare" width="38"/> <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" width="38"/> <img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" width="38"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" width="38"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" width="38"/> <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" width="38"/> <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" width="38"/> <img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" width="38"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" width="38"/> <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" width="38"/> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" width="38"/> <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" width="38"/> |
