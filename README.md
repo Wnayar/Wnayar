@@ -31,7 +31,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ## Selected Work
 
-### Airlock &nbsp;![1st Place](https://img.shields.io/badge/%F0%9F%8F%86%201st%20Place-070D14?style=flat&logoColor=F0B429)
+### Airlock &nbsp;<sub><img src="https://img.shields.io/badge/%F0%9F%8F%86%201st%20Place-070D14?style=flat&logoColor=F0B429" alt="1st Place"/></sub>
 
 1st place at the Daytona HackSprint. A safety gate that sits between an AI coding agent and every package it tries to install.
 
@@ -41,7 +41,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 *Sponsors:* &nbsp;`Daytona` `Nosana` `Doubleword` `Oxylabs` `ai&`
 
-### Aqua Vitae &nbsp;[![Live](https://img.shields.io/badge/Live%20Site-070D14?style=flat&logoColor=F0B429)](https://www.aquavitaeparfums.com/)
+### Aqua Vitae &nbsp;<sub><a href="https://www.aquavitaeparfums.com/"><img src="https://img.shields.io/badge/Live%20Site-070D14?style=flat&logoColor=F0B429" alt="Live Site"/></a></sub>
 
 Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront, backend and infrastructure.
 
@@ -51,7 +51,7 @@ Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront,
 
 *Built with:* &nbsp;`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
 
-### PeerPrep &nbsp;![Team of 6](https://img.shields.io/badge/Distributed%20%C2%B7%206%20Services-070D14?style=flat&logoColor=F0B429)
+### PeerPrep &nbsp;<sub><img src="https://img.shields.io/badge/Distributed%20%C2%B7%206%20Services-070D14?style=flat&logoColor=F0B429" alt="Distributed, 6 services"/></sub>
 
 Question Service owned end to end within a distributed 6-service architecture.
 
@@ -61,7 +61,7 @@ Question Service owned end to end within a distributed 6-service architecture.
 
 *Built with:* &nbsp;`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
 
-### Study-group platform &nbsp;![Orbital](https://img.shields.io/badge/NUS%20Orbital%20%C2%B7%20Apollo%2011-070D14?style=flat&logoColor=F0B429)
+### Study-group platform &nbsp;<sub><img src="https://img.shields.io/badge/NUS%20Orbital%20%C2%B7%20Apollo%2011-070D14?style=flat&logoColor=F0B429" alt="NUS Orbital, Apollo 11"/></sub>
 
 NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discovering study groups, matched on live NUSMods course data.
 
