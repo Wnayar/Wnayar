@@ -1,12 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070D14,45:0F2233,100:2A5D7C&text=William%20Nayar&fontSize=46&fontColor=EAF0F6&font=JetBrains%20Mono&fontAlignY=32&desc=backend%20%C2%B7%20distributed%20systems&descSize=19&descColor=F0B429&descAlignY=52&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=F0B429&center=true&vCenter=true&width=720&height=42&lines=%24+backend+%C2%B7+distributed+systems;building+Recall%2C+a+search+engine+in+Go;open+to+6-month+SWE+internships+from+early+2027"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/william-nayar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-070D14?style=for-the-badge&logo=linkedin&logoColor=F0B429"/></a>
   <a href="mailto:wnayar98@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-070D14?style=for-the-badge&logo=gmail&logoColor=F0B429"/></a>
 </p>
@@ -75,7 +67,4 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 | **Infra & Cloud** | <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="42"/> <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" width="42"/> <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="42"/> <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="42"/> <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" width="42"/> <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" width="42"/> <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="42"/> <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="42"/> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react" title="React" width="42"/> <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="42"/> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="42"/> <img src="https://skillicons.dev/icons?i=vite" title="Vite" width="42"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git" title="Git" width="42"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="42"/> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="42"/> <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="42"/> |
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2A5D7C,55:0F2233,100:070D14&section=footer"/>
 </p>
