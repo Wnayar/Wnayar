@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0C1826,100:1B4965&text=William%20Nayar&fontSize=46&fontColor=EAF0F6&font=JetBrains%20Mono&fontAlignY=32&desc=backend%20%C2%B7%20distributed%20systems&descSize=19&descColor=F0B429&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0C1826,100:1B4965&text=William%20Nayar&fontSize=46&fontColor=EAF0F6&font=JetBrains%20Mono&fontAlignY=32&desc=backend%20%C2%B7%20distributed%20systems&descSize=19&descColor=F0B429&descAlignY=52&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -7,17 +7,21 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/william-nayar/"><img src="https://img.shields.io/badge/LinkedIn-0C1826?style=for-the-badge&logo=linkedin&logoColor=F0B429"/></a>
-  <a href="mailto:wnayar98@gmail.com"><img src="https://img.shields.io/badge/Email-0C1826?style=for-the-badge&logo=gmail&logoColor=F0B429"/></a>
+  <a href="https://www.linkedin.com/in/william-nayar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0C1826?style=for-the-badge&logo=linkedin&logoColor=F0B429"/></a>
+  <a href="mailto:wnayar98@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-0C1826?style=for-the-badge&logo=gmail&logoColor=F0B429"/></a>
 </p>
 
 Final-year CS at NUS specialising in Software Engineering. I build backend systems and care about where work belongs in a system. Looking for a 6-month SWE internship starting early 2027.
 
-## Currently
+## Status
 
-- Building **Recall**, a search engine in Go, to understand indexing and retrieval by building them rather than reading about them
-- Next: a real-time collaboration platform on TypeScript, Postgres and Redis
-- Running automated trading systems unattended against live markets
+| system | status | notes |
+|---|---|---|
+| **Recall** | <img src="https://img.shields.io/badge/building-F0B429?style=flat-square" title="In active development"/> | search engine in Go, indexing and retrieval built from scratch |
+| **collab platform** | <img src="https://img.shields.io/badge/queued-4E677E?style=flat-square" title="Next in the pipeline"/> | real-time collaboration · TypeScript · Postgres · Redis |
+| **[Aqua Vitae](https://www.aquavitaeparfums.com/)** | <img src="https://img.shields.io/badge/live-2EA043?style=flat-square" title="Deployed and serving"/> | fragrance storefront, sole engineer, launching Dec 2026 |
+| **[namestrace](https://namestrace.com/)** | <img src="https://img.shields.io/badge/live-2EA043?style=flat-square" title="Deployed and serving"/> | 17,000-page data site on Cloudflare, runs at $0 |
+| **trading systems** | <img src="https://img.shields.io/badge/running-2EA043?style=flat-square" title="Unattended in production"/> | automated, unattended, against live markets |
 
 ## Achievements
 
@@ -35,7 +39,7 @@ Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront,
 - React and TypeScript storefront with a Shopify hosted checkout, keeping payments and PCI scope off my stack
 - CI/CD through Vercel, Cloudflare DNS and GitHub automation, with analytics supporting early testing across 100+ visitors
 
-`TypeScript` `React` `PostgreSQL` `Vercel` `Cloudflare` `Shopify`
+`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
 
 ### PeerPrep
 
@@ -45,7 +49,7 @@ Question Service owned end to end within a distributed 6-service architecture.
 - Moved randomized question selection into MongoDB aggregation pipelines ($match, $sample) instead of the application layer
 - 35 unit and integration tests with Jest and Supertest covering CRUD workflows and the pipelines
 
-`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest`
+`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
 
 ### Study-group platform
 
@@ -60,11 +64,16 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 
 | | |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,go,python,java,c,bash&theme=dark" height="36"/> |
-| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=dark" height="36"/> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,cloudflare,githubactions,nginx,linux&theme=dark" height="36"/> |
-| **Also** | <img src="https://skillicons.dev/icons?i=react,tailwind,git,postman,vscode&theme=dark" height="36"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="42"/> <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="42"/> <img src="https://skillicons.dev/icons?i=go" title="Go" width="42"/> <img src="https://skillicons.dev/icons?i=python" title="Python" width="42"/> <img src="https://skillicons.dev/icons?i=java" title="Java" width="42"/> <img src="https://skillicons.dev/icons?i=c" title="C" width="42"/> <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="42"/> <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="42"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="42"/> <img src="https://skillicons.dev/icons?i=express" title="Express" width="42"/> <img src="https://skillicons.dev/icons?i=flask" title="Flask" width="42"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="42"/> <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" width="42"/> <img src="https://skillicons.dev/icons?i=redis" title="Redis" width="42"/> <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" width="42"/> <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="42"/> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="42"/> |
+| **Infra & Cloud** | <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="42"/> <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" width="42"/> <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="42"/> <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="42"/> <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" width="42"/> <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" width="42"/> <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="42"/> <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="42"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react" title="React" width="42"/> <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="42"/> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="42"/> <img src="https://skillicons.dev/icons?i=vite" title="Vite" width="42"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git" title="Git" width="42"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="42"/> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="42"/> <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="42"/> |
+
+Also fluent in `MQL5` for the trading systems.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1B4965,100:0C1826&section=footer"/>
 </p>
+
