@@ -20,11 +20,21 @@ Final-year CS at NUS specialising in Software Engineering. I build backend syste
 
 ## Achievements
 
-- **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock**: a safety gate that sandboxes and vets every package before an AI coding agent can install it
+- **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below)
 - **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
 - **Merged open source PRs** in [Automattic/mongoose](https://github.com/Automattic/mongoose) and [redis/node-redis](https://github.com/redis/node-redis), gaps I found by reading the source rather than working off issue labels
 
 ## Selected Work
+
+### Airlock
+
+1st place at the Daytona HackSprint. A safety gate that sits between an AI coding agent and every package it tries to install.
+
+- Each install is detonated in an isolated sandbox before it touches the system, then read statically, matched against known malware, and reputation scored, with an LLM issuing the final verdict
+- Enforced as a hook rather than a wrapper, so the agent cannot route around it
+- Weekend team build; the concept and system design were mine
+
+`Daytona` `Nosana` `Doubleword` `Oxylabs` `ai&`
 
 ### Aqua Vitae &nbsp;[![Live](https://img.shields.io/badge/Live%20Site-070D14?style=flat&logoColor=F0B429)](https://www.aquavitaeparfums.com/)
 
@@ -69,4 +79,3 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2A5D7C,55:0F2233,100:070D14&section=footer"/>
 </p>
-
