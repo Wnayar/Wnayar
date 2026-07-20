@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner.svg" width="900" alt="William Nayar, backend and distributed systems"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/william-nayar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-070D14?style=for-the-badge&logo=linkedin&logoColor=F0B429"/></a>
   <a href="mailto:wnayar98@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-070D14?style=for-the-badge&logo=gmail&logoColor=F0B429"/></a>
 </p>
@@ -67,4 +71,3 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 | **Infra & Cloud** | <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="42"/> <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" width="42"/> <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="42"/> <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="42"/> <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" width="42"/> <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" width="42"/> <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="42"/> <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="42"/> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react" title="React" width="42"/> <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="42"/> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="42"/> <img src="https://skillicons.dev/icons?i=vite" title="Vite" width="42"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git" title="Git" width="42"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="42"/> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="42"/> <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="42"/> |
-</p>

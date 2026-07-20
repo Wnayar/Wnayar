@@ -1,0 +1,28 @@
+<svg viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="William Nayar, backend and distributed systems">
+  <defs>
+    <pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="9" height="9" fill="#070D14"/>
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#2A5D7C" stroke-width="3"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#070D14"/>
+
+    <!-- geometric cluster, right -->
+    <circle cx="1055" cy="30" r="155" fill="#F0B429"/>
+    <circle cx="880" cy="235" r="95" fill="url(#hatch)"/>
+    <circle cx="1085" cy="250" r="70" fill="none" stroke="#3E7CA6" stroke-width="2.5"/>
+    <polyline points="957,117 1007,180 1085,250" fill="none" stroke="#1E3A50" stroke-width="2"/>
+    <circle cx="957" cy="117" r="10" fill="#2A5D7C"/>
+    <circle cx="1007" cy="180" r="6" fill="none" stroke="#3E7CA6" stroke-width="2"/>
+    <circle cx="757" cy="65" r="26" fill="none" stroke="#1E3A50" stroke-width="2"/>
+
+    <!-- lockup, left -->
+    <text x="70" y="140" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="800" fill="#EAF0F6" letter-spacing="1">William Nayar</text>
+    <rect x="73" y="160" width="122" height="6" rx="3" fill="#F0B429"/>
+    <text x="70" y="207" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="22" fill="#F0B429">backend &#183; distributed systems</text>
+    <text x="70" y="240" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#7E93A8">Computer Science &#183; National University of Singapore</text>
+  </g>
+</svg>
