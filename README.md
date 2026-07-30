@@ -22,7 +22,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-ink-dark.svg"><img src="assets/glyph-achievements-ink-light.svg" width="18" alt=""></picture> Achievements
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-check-dark.svg"><img src="assets/glyph-achievements-check-light.svg" width="18" alt=""></picture> Achievements
 
 - **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below)
 - **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
