@@ -15,14 +15,14 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-### Currently
+### <img src="assets/glyph-currently.svg" width="22" alt=""> Currently
 
 - Building **[DeepCS](https://github.com/Wnayar/deepcs)**, a CS fundamentals question bank where two people solve the same question together in real time. Six independently deployable services on Cloud Run behind a gateway I'm writing rather than buying, a Yjs CRDT holding the shared document across instances, and an append-only event log a scheduled job drains into stats, which is where at-least-once delivery forces idempotency
-- **Recall** after that, a search engine in Go, to understand indexing and retrieval by building them rather than reading about them
+- Building **[Recall](https://github.com/Wnayar/recall)** after that, a search engine in Go, to understand indexing and retrieval by implementing them rather than reading about them
 
 ---
 
-### Achievements
+### <img src="assets/glyph-achievements.svg" width="22" alt=""> Achievements
 
 - **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below)
 - **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
@@ -30,7 +30,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-### Selected Work
+### <img src="assets/glyph-work.svg" width="22" alt=""> Selected Work
 
 ### [Airlock](https://github.com/Wnayar/airlock) · 🏆 1st Place
 
@@ -73,7 +73,7 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 
 ---
 
-### Technical Skills
+### <img src="assets/glyph-skills.svg" width="22" alt=""> Technical Skills
 
 **Languages**  
 <img src="assets/skills-languages.svg" width="442" alt="JavaScript, TypeScript, Go, Python, Java, C, C++, Bash"/>

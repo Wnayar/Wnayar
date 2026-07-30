@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+  <!-- three nodes closed into a triangle, apex lit -->
+  <g fill="none" stroke="#4493F8" stroke-width="1.6" stroke-linecap="round">
+    <line x1="10.356" y1="8.926" x2="7.644" y2="14.574" opacity="0.4"/>
+    <line x1="13.644" y1="8.926" x2="16.356" y2="14.574" opacity="0.4"/>
+    <line x1="9.8" y1="18" x2="14.2" y2="18" opacity="0.4"/>
+    <circle cx="12" cy="5.5" r="2.6"/>
+    <circle cx="6" cy="18" r="2.6"/>
+    <circle cx="18" cy="18" r="2.6"/>
+  </g>
+  <circle cx="12" cy="5.5" r="1.45" fill="#4493F8">
+    <animate attributeName="opacity" values="0.15;1;0.15" keyTimes="0;0.45;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
