@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v2.svg" width="720" alt="William Nayar, backend and distributed systems"/>
+  <img src="assets/banner-v3.svg" width="100%" alt="William Nayar, backend and distributed systems"/>
 </p>
 
 <p align="center">
