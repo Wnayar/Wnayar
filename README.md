@@ -13,14 +13,14 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-## Currently
+### Currently
 
 - Building **Recall**, a search engine in Go, to understand indexing and retrieval by building them rather than reading about them
 - Next: a real-time collaboration platform on TypeScript, Postgres and Redis
 
 ---
 
-## Achievements
+### Achievements
 
 - **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below)
 - **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
@@ -28,9 +28,9 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-## Selected Work
+### Selected Work
 
-### [Airlock](https://github.com/Wnayar/airlock) — 🏆 1st Place
+#### [Airlock](https://github.com/Wnayar/airlock) — 🏆 1st Place
 
 1st place at the Daytona HackSprint. A safety gate that sits between an AI coding agent and every package it tries to install.
 
@@ -40,7 +40,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 *Sponsors:* &nbsp;`Daytona` `Nosana` `Doubleword` `Oxylabs` `ai&`
 
-### [Aqua Vitae](https://github.com/Wnayar/aqua-vitae)&nbsp;&nbsp;<sub><a href="https://www.aquavitaeparfums.com/"><img src="assets/badge-livesite.svg" width="57" alt="Live Site"/></a></sub>
+#### [Aqua Vitae](https://github.com/Wnayar/aqua-vitae)&nbsp;&nbsp;<sub><a href="https://www.aquavitaeparfums.com/"><img src="assets/badge-livesite.svg" width="57" alt="Live Site"/></a></sub>
 
 Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront, backend and infrastructure.
 
@@ -50,7 +50,7 @@ Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront,
 
 *Built with:* &nbsp;`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
 
-### [PeerPrep](https://github.com/Wnayar/PeerPrep) — Distributed · 6 Services
+#### [PeerPrep](https://github.com/Wnayar/PeerPrep) — Distributed · 6 Services
 
 Question Service owned end to end within a distributed 6-service architecture.
 
@@ -60,7 +60,7 @@ Question Service owned end to end within a distributed 6-service architecture.
 
 *Built with:* &nbsp;`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
 
-### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) — NUS Orbital · Apollo 11
+#### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) — NUS Orbital · Apollo 11
 
 NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discovering study groups, matched on live NUSMods course data.
 
@@ -71,7 +71,7 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 
 ---
 
-## Technical Skills
+### Technical Skills
 
 **Languages**  
 <img src="assets/skills-languages.svg" width="442" alt="JavaScript, TypeScript, Go, Python, Java, C, C++, Bash"/>
