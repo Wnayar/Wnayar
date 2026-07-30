@@ -17,8 +17,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ### Currently
 
-- Building **[DeepCS](https://github.com/Wnayar/deepcs)**, a CS fundamentals question bank where two people solve the same question together in real time. Six independently deployable services on Cloud Run behind a gateway I'm writing rather than buying, a Yjs CRDT holding the shared document across instances, and an append-only event log a scheduled job drains into stats — which is where at-least-once delivery forces idempotency
-- The **[design doc](https://github.com/Wnayar/deepcs/blob/main/DESIGN.md)** came before the code: nine ADRs, with every non-obvious decision tagged *bought*, *built to learn*, or *built and deliberately not kept*. The rule behind the tags is build what has a concurrency or distributed-systems problem inside it, buy what is risk without insight
+- Building **[DeepCS](https://github.com/Wnayar/deepcs)**, a CS fundamentals question bank where two people solve the same question together in real time. Six independently deployable services on Cloud Run behind a gateway I'm writing rather than buying, a Yjs CRDT holding the shared document across instances, and an append-only event log a scheduled job drains into stats, which is where at-least-once delivery forces idempotency
 - **Recall** after that, a search engine in Go, to understand indexing and retrieval by building them rather than reading about them
 
 ---
@@ -33,7 +32,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ### Selected Work
 
-#### [Airlock](https://github.com/Wnayar/airlock) — 🏆 1st Place
+#### [Airlock](https://github.com/Wnayar/airlock) · 🏆 1st Place
 
 1st place at the Daytona HackSprint. A safety gate that sits between an AI coding agent and every package it tries to install.
 
@@ -53,7 +52,7 @@ Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront,
 
 *Built with:* &nbsp;`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
 
-#### [PeerPrep](https://github.com/Wnayar/PeerPrep) — Distributed · 6 Services
+#### [PeerPrep](https://github.com/Wnayar/PeerPrep) · Distributed · 6 Services
 
 Question Service owned end to end within a distributed 6-service architecture.
 
@@ -63,7 +62,7 @@ Question Service owned end to end within a distributed 6-service architecture.
 
 *Built with:* &nbsp;`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
 
-#### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) — NUS Orbital · Apollo 11
+#### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) · NUS Orbital · Apollo 11
 
 NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discovering study groups, matched on live NUSMods course data.
 
