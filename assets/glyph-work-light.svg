@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+  <!-- a stack of work, highlight travelling down it -->
+  <g fill="none" stroke="#0969DA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 3.2 L20.8 7.8 L12 12.4 L3.2 7.8 Z">
+      <animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0s" repeatCount="indefinite"/>
+    </path>
+    <path d="M3.2 12.2 L12 16.8 L20.8 12.2">
+      <animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0.45s" repeatCount="indefinite"/>
+    </path>
+    <path d="M3.2 16.4 L12 21 L20.8 16.4">
+      <animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
