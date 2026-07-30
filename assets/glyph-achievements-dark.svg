@@ -1,9 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
-  <!-- a star, light running round the outline -->
-  <g fill="none" stroke="#4493F8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
-    <path d="M12 3 L14.351 8.764 L20.56 9.219 L15.804 13.236 L17.29 19.281 L12 16 L6.71 19.281 L8.196 13.236 L3.44 9.219 L9.649 8.764 Z" opacity="0.35"/>
-    <path d="M12 3 L14.351 8.764 L20.56 9.219 L15.804 13.236 L17.29 19.281 L12 16 L6.71 19.281 L8.196 13.236 L3.44 9.219 L9.649 8.764 Z" stroke-dasharray="13 49.25">
-      <animate attributeName="stroke-dashoffset" values="62.25;0" dur="3.4s" repeatCount="indefinite"/>
-    </path>
-  </g>
-</svg>
