@@ -1,8 +1,7 @@
 <svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
-  <!-- angle brackets, ripple passing through -->
+  <!-- a shell prompt, ripple reading as a command going in -->
   <g fill="none" stroke="#4493F8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M9 7.5 L4 12 L9 16.5"><animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></path>
-    <path d="M14.2 5.5 L9.8 18.5"><animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0.45s" repeatCount="indefinite"/></path>
-    <path d="M15 7.5 L20 12 L15 16.5"><animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0.9s" repeatCount="indefinite"/></path>
+    <path d="M5 6.5 L11 12 L5 17.5"><animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></path>
+    <path d="M13.5 17.5 H20"><animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0.45s" repeatCount="indefinite"/></path>
   </g>
 </svg>
