@@ -22,7 +22,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-green-dark.svg"><img src="assets/glyph-achievements-green-light.svg" width="18" alt=""></picture> Achievements
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-ink-dark.svg"><img src="assets/glyph-achievements-ink-light.svg" width="18" alt=""></picture> Achievements
 
 - **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below)
 - **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
@@ -30,7 +30,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-work-blue-dark.svg"><img src="assets/glyph-work-blue-light.svg" width="18" alt=""></picture> Selected Work
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-work-ink-dark.svg"><img src="assets/glyph-work-ink-light.svg" width="18" alt=""></picture> Selected Work
 
 ### [Airlock](https://github.com/Wnayar/airlock) · 🏆 1st Place
 
@@ -73,7 +73,7 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-skills-purple-dark.svg"><img src="assets/glyph-skills-purple-light.svg" width="18" alt=""></picture> Technical Skills
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-skills-ink-dark.svg"><img src="assets/glyph-skills-ink-light.svg" width="18" alt=""></picture> Technical Skills
 
 **Languages**  
 <img src="assets/skills-languages.svg" width="442" alt="JavaScript, TypeScript, Go, Python, Java, C, C++, Bash"/>
