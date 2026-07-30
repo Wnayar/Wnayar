@@ -39,7 +39,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 - Each install is detonated in an isolated sandbox before it touches the system, then read statically, matched against known malware, and reputation scored, with an LLM issuing the final verdict
 - Enforced as a hook rather than a wrapper, so the agent cannot route around it
-- Weekend team build; the concept and system design were mine
+- Weekend team build; a teammate and I shaped the concept and system design
 
 *Sponsors:* &nbsp;`Daytona` `Nosana` `Doubleword` `Oxylabs` `ai&`
 
