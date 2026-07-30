@@ -15,14 +15,14 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-currently-dark.svg"><img src="assets/glyph-currently-light.svg" width="18" alt=""></picture> Currently
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-currently-ink-dark.svg"><img src="assets/glyph-currently-ink-light.svg" width="18" alt=""></picture> Currently
 
 - Building **[DeepCS](https://github.com/Wnayar/deepcs)**, a CS fundamentals question bank where two people solve the same question together in real time. Six independently deployable services on Cloud Run behind a gateway I'm writing rather than buying, a Yjs CRDT holding the shared document across instances, and an append-only event log a scheduled job drains into stats, which is where at-least-once delivery forces idempotency
 - Building **[Recall](https://github.com/Wnayar/recall)** after that, a search engine in Go, to understand indexing and retrieval by implementing them rather than reading about them
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-v2-dark.svg"><img src="assets/glyph-achievements-v2-light.svg" width="18" alt=""></picture> Achievements
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-green-dark.svg"><img src="assets/glyph-achievements-green-light.svg" width="18" alt=""></picture> Achievements
 
 - **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below)
 - **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
@@ -30,7 +30,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-work-dark.svg"><img src="assets/glyph-work-light.svg" width="18" alt=""></picture> Selected Work
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-work-blue-dark.svg"><img src="assets/glyph-work-blue-light.svg" width="18" alt=""></picture> Selected Work
 
 ### [Airlock](https://github.com/Wnayar/airlock) · 🏆 1st Place
 
@@ -73,7 +73,7 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-skills-dark.svg"><img src="assets/glyph-skills-light.svg" width="18" alt=""></picture> Technical Skills
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-skills-purple-dark.svg"><img src="assets/glyph-skills-purple-light.svg" width="18" alt=""></picture> Technical Skills
 
 **Languages**  
 <img src="assets/skills-languages.svg" width="442" alt="JavaScript, TypeScript, Go, Python, Java, C, C++, Bash"/>

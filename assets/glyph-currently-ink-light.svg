@@ -1,6 +1,5 @@
 <svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
-  <!-- a live pulse, signal running left to right -->
-  <g fill="none" stroke="#0969DA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="#1F2328" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M2.5 12 H7 L9 6.5 L12 17.5 L14.5 12 H21.5" opacity="0.35"/>
     <path d="M2.5 12 H7 L9 6.5 L12 17.5 L14.5 12 H21.5" stroke-dasharray="7 27.8">
       <animate attributeName="stroke-dashoffset" values="34.8;0" dur="2.4s" repeatCount="indefinite"/>
