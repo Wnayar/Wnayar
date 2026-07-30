@@ -1,10 +1,8 @@
 <svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
-  <!-- a chip, die under load -->
+  <!-- angle brackets, ripple passing through -->
   <g fill="none" stroke="#0969DA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="6.6" y="6.6" width="10.8" height="10.8" rx="2.2"/>
-    <path d="M10 6.6 V3.4 M14 6.6 V3.4 M10 17.4 V20.6 M14 17.4 V20.6 M6.6 10 H3.4 M6.6 14 H3.4 M17.4 10 H20.6 M17.4 14 H20.6"/>
+    <path d="M9 7.5 L4 12 L9 16.5"><animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></path>
+    <path d="M14.2 5.5 L9.8 18.5"><animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0.45s" repeatCount="indefinite"/></path>
+    <path d="M15 7.5 L20 12 L15 16.5"><animate attributeName="opacity" values="0.45;1;0.45;0.45" keyTimes="0;0.08;0.16;1" dur="3.6s" begin="0.9s" repeatCount="indefinite"/></path>
   </g>
-  <rect x="10.1" y="10.1" width="3.8" height="3.8" rx="1" fill="#0969DA" opacity="0.35">
-    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.6s" repeatCount="indefinite"/>
-  </rect>
 </svg>
