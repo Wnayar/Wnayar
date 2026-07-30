@@ -17,8 +17,9 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ### Currently
 
-- Building **Recall**, a search engine in Go, to understand indexing and retrieval by building them rather than reading about them
-- Next: a real-time collaboration platform on TypeScript, Postgres and Redis
+- Building **[DeepCS](https://github.com/Wnayar/deepcs)**, a CS fundamentals question bank where two people solve the same question together in real time. Six independently deployable services on Cloud Run behind a gateway I'm writing rather than buying, a Yjs CRDT holding the shared document across instances, and an append-only event log a scheduled job drains into stats — which is where at-least-once delivery forces idempotency
+- The **[design doc](https://github.com/Wnayar/deepcs/blob/main/DESIGN.md)** came before the code: nine ADRs, with every non-obvious decision tagged *bought*, *built to learn*, or *built and deliberately not kept*. The rule behind the tags is build what has a concurrency or distributed-systems problem inside it, buy what is risk without insight
+- **Recall** after that, a search engine in Go, to understand indexing and retrieval by building them rather than reading about them
 
 ---
 
