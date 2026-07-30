@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="William Nayar, backend and distributed systems"/>
+  <img src="assets/banner.svg" width="100%" alt="William Nayar, backend and distributed systems"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/william-nayar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-070D14?style=for-the-badge&logo=linkedin&logoColor=F0B429"/></a>
-  <a href="mailto:wnayar98@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-070D14?style=for-the-badge&logo=gmail&logoColor=F0B429"/></a>
+  <a href="https://www.linkedin.com/in/william-nayar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-070D14?style=for-the-badge&logo=linkedin&logoColor=F0B429" alt="LinkedIn"/></a>
+  <a href="mailto:wnayar98@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-070D14?style=for-the-badge&logo=gmail&logoColor=F0B429" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -74,11 +74,20 @@ NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discoverin
 
 ## Technical Skills
 
-| Category | Stack |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" width="38"/> <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" width="38"/> <img src="https://skillicons.dev/icons?i=go&theme=dark" title="Go" width="38"/> <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" width="38"/> <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" width="38"/> <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" width="38"/> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" width="38"/> <img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" width="38"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" width="38"/> <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" width="38"/> <img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" width="38"/> |
-| **Data** | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" width="38"/> <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" width="38"/> <img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" width="38"/> <img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" width="38"/> <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" width="38"/> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" width="38"/> |
-| **Infra & Cloud** | <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" width="38"/> <img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="Google Cloud" width="38"/> <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" width="38"/> <img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" width="38"/> <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" title="Cloudflare" width="38"/> <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" width="38"/> <img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" width="38"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" width="38"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" width="38"/> <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" width="38"/> <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" width="38"/> <img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" width="38"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" width="38"/> <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" width="38"/> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" width="38"/> <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" width="38"/> |
+**Languages**  
+<img src="assets/skills-languages.svg" width="442" alt="JavaScript, TypeScript, Go, Python, Java, C, C++, Bash"/>
+
+**Backend**  
+<img src="assets/skills-backend.svg" width="442" alt="Node.js, Express, Flask"/>
+
+**Data**  
+<img src="assets/skills-data.svg" width="442" alt="MongoDB, PostgreSQL, Redis, Supabase, SQLite, Firebase"/>
+
+**Infra & Cloud**  
+<img src="assets/skills-infra.svg" width="442" alt="Docker, Google Cloud, AWS, Vercel, Cloudflare, GitHub Actions, Nginx, Linux"/>
+
+**Frontend**  
+<img src="assets/skills-frontend.svg" width="442" alt="React, Next.js, Tailwind CSS, Vite"/>
+
+**Tools**  
+<img src="assets/skills-tools.svg" width="442" alt="Git, GitHub, VS Code, Postman"/>
