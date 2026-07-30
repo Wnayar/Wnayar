@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/william-nayar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-070D14?style=for-the-badge&logo=linkedin&logoColor=F0B429" alt="LinkedIn"/></a>
-  <a href="mailto:wnayar98@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-070D14?style=for-the-badge&logo=gmail&logoColor=F0B429" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/william-nayar/" title="LinkedIn"><img src="assets/badge-linkedin.svg" width="91" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:wnayar98@gmail.com" title="Email"><img src="assets/badge-email.svg" width="85" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -41,7 +40,7 @@ Looking for a 6-month SWE internship starting early 2027.
 
 *Sponsors:* &nbsp;`Daytona` `Nosana` `Doubleword` `Oxylabs` `ai&`
 
-### [Aqua Vitae](https://github.com/Wnayar/aqua-vitae) &nbsp;<sub><a href="https://www.aquavitaeparfums.com/"><img src="https://img.shields.io/badge/Live%20Site-070D14?style=flat&logoColor=F0B429" alt="Live Site"/></a></sub>
+### [Aqua Vitae](https://github.com/Wnayar/aqua-vitae)&nbsp;&nbsp;<sub><a href="https://www.aquavitaeparfums.com/"><img src="assets/badge-livesite.svg" width="57" alt="Live Site"/></a></sub>
 
 Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront, backend and infrastructure.
 
