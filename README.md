@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <b><a href="https://williamnayar.com/">Website</a></b>
+  &nbsp;·&nbsp;
+  <b><a href="https://williamnayar.com/resume">Resume</a></b>
+  &nbsp;·&nbsp;
   <b><a href="https://www.linkedin.com/in/william-nayar/">LinkedIn</a></b>
   &nbsp;·&nbsp;
   <b><a href="mailto:wnayar98@gmail.com">Email</a></b>
@@ -18,16 +22,17 @@ Looking for a 6-month SWE internship starting early 2027.
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-currently-ink-dark.svg"><img src="assets/glyph-currently-ink-light.svg" width="18" alt=""></picture> Currently
 
 - Teaching **[CS3219 Software Engineering Principles and Patterns](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns)** at NUS as an academic tutor to a class of twenty, August to December 2026. One of my favourite modules taken in NUS, and the one that opened my eyes to how broad software engineering gets once distributed systems are involved. It is microservices based, so teams spend the semester making real decisions: where a service boundary goes, which database suits the access pattern, how everything gets deployed and stays up. My job is to help them think those through before they commit
-- Taking **[DeepCS](https://github.com/Wnayar/deepcs)** (below) from Kubernetes locally onto GKE, then putting a Kafka adapter behind the event log interface it already has
-- Building **[Recall](https://github.com/Wnayar/recall)** next, a search engine in Go, to understand indexing and retrieval by implementing them rather than reading about them
+- Building **[Recall](https://github.com/Wnayar/recall)**, a search engine in Go, to understand indexing and retrieval by implementing them rather than reading about them
 
 ---
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-check-dark.svg"><img src="assets/glyph-achievements-check-light.svg" width="18" alt=""></picture> Achievements
 
-- **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below)
-- **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
+- **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below), a safety gate for AI agents
+- **Certificate of Distinction**, Software Engineering, NUS School of Computing: 4.50 GPA across key Software Engineering modules
 - **Three merged PRs** into [Automattic/mongoose](https://github.com/Automattic/mongoose) (27k stars) and [redis/node-redis](https://github.com/redis/node-redis) (17k stars), approved by both projects' lead maintainers. Gaps I found by reading the source rather than working off issue labels
+- **Orbital Apollo 11 Certification**, NUS: advanced independent software development project
+- **HackerRank Software Engineering Certification**: Problem Solving, SQL
 
 ---
 
@@ -35,15 +40,16 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ### [DeepCS](https://github.com/Wnayar/deepcs) · Distributed · 6 Services
 
-A CS interview question bank you work through alone, or live with a matched partner.
+Solve CS interview questions solo or live with a matched partner.
 
-- Six independently deployable services in TypeScript and Fastify, with path filtered CI that builds and health checks each service's image on its own
-- Real-time collaborative editing on WebSockets and Yjs, a CRDT, with edits carried between instances over Redis pub/sub. 250 sockets at p95 4ms on one machine
-- A gateway I wrote rather than bought, verifying Firebase JWTs against Google's JWKS, with rate limiting and partner matching made atomic in Redis Lua
-- One PostgreSQL instance with a schema and a role per service, and an integration test that asserts the database rejects cross-service queries
-- An event pipeline on Redis Streams whose consumer acks only after commit, which is what turns at-least-once delivery into effectively exactly-once
+- Built a distributed 6-service backend in TypeScript and Fastify, with path-filtered CI building and health-checking each service's image independently
+- Built real-time collaborative editing on WebSockets and Yjs (CRDT), syncing edits across instances via Redis pub/sub, 250 sockets at p95 4 ms on one machine
+- Built a custom API gateway with Firebase JWT verification against Google's JWKS, and made rate limiting and partner matching atomic with Redis Lua scripts
+- Designed the data layer as one PostgreSQL instance with a schema and role per service, with an integration test asserting the database rejects cross-service queries
+- Built an event pipeline on Redis Streams with a consumer that acks after commit, making at-least-once delivery effectively exactly-once
+- In progress: running the stack on Kubernetes locally. Future: a GKE/GCP sprint, a Kafka adapter behind the event-log interface, and Drizzle over the pg layer
 
-*Built with:* &nbsp;`TypeScript` `Fastify` `PostgreSQL` `Redis` `Yjs` `Docker` `Kubernetes` `GitHub Actions`
+*Built with:* &nbsp;`TypeScript` `Fastify` `SQL` `Redis` `Docker` `Kubernetes`
 
 ### [Airlock](https://github.com/Wnayar/airlock) · 🏆 1st Place
 
@@ -57,13 +63,13 @@ A CS interview question bank you work through alone, or live with a matched part
 
 ### [Aqua Vitae](https://github.com/Wnayar/aqua-vitae) · [Live Site](https://www.aquavitaeparfums.com/)
 
-Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront, backend and infrastructure.
+Founder and developer. Perfumes that I make and sell myself.
 
-- Backend on Supabase (PostgreSQL) and Vercel Functions: authentication, relational schema design, and caching
-- React and TypeScript storefront with a Shopify hosted checkout, keeping payments and PCI scope off my stack
-- CI/CD through Vercel, Cloudflare DNS and GitHub automation, with analytics supporting early testing across 100+ visitors
+- Designed a scalable frontend architecture using re-usable layouts, modals, and state management techniques, enabling ~70% code sharing and efficient creation of new features
+- Implemented centralized cart state management using React Context and localStorage that allows real-time cart data sharing between different parts of the frontend (Navbar, product page, cart, overlays, etc.)
+- Configured CI/CD and production deployment through Vercel, Cloudflare DNS, and GitHub automation
 
-*Built with:* &nbsp;`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
+*Built with:* &nbsp;`React` `TypeScript` `PostgreSQL` `Vercel` `Cloudflare`
 
 ---
 
