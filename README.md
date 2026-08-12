@@ -17,9 +17,9 @@ Looking for a 6-month SWE internship starting early 2027.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-currently-ink-dark.svg"><img src="assets/glyph-currently-ink-light.svg" width="18" alt=""></picture> Currently
 
-- Teaching **[CS3219 Software Engineering Principles and Patterns](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns)** at NUS as an academic tutor, August to December 2026. One of my favourite modules taken in NUS, and the one that opened my eyes to how broad software engineering gets once distributed systems are involved. It is microservices based, so teams spend the semester making real decisions: where a service boundary goes, which database suits the access pattern, how everything gets deployed and stays up. My job is to help them think those through before they commit
-- Building **[DeepCS](https://github.com/Wnayar/deepcs)**, a CS fundamentals question bank where two people solve the same question together in real time. Six independently deployable services on Cloud Run behind a gateway I'm writing rather than buying, a Yjs CRDT holding the shared document across instances, and an append-only event log a scheduled job drains into stats, which is where at-least-once delivery forces idempotency
-- Building **[Recall](https://github.com/Wnayar/recall)** after that, a search engine in Go, to understand indexing and retrieval by implementing them rather than reading about them
+- Teaching **[CS3219 Software Engineering Principles and Patterns](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns)** at NUS as an academic tutor to a class of twenty, August to December 2026. One of my favourite modules taken in NUS, and the one that opened my eyes to how broad software engineering gets once distributed systems are involved. It is microservices based, so teams spend the semester making real decisions: where a service boundary goes, which database suits the access pattern, how everything gets deployed and stays up. My job is to help them think those through before they commit
+- Taking **[DeepCS](https://github.com/Wnayar/deepcs)** (below) from Kubernetes locally onto GKE, then putting a Kafka adapter behind the event log interface it already has
+- Building **[Recall](https://github.com/Wnayar/recall)** next, a search engine in Go, to understand indexing and retrieval by implementing them rather than reading about them
 
 ---
 
@@ -27,11 +27,23 @@ Looking for a 6-month SWE internship starting early 2027.
 
 - **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below)
 - **Certificate of Distinction**, Software Engineering focus area, NUS School of Computing
-- **Merged open source PRs** in [Automattic/mongoose](https://github.com/Automattic/mongoose) and [redis/node-redis](https://github.com/redis/node-redis), gaps I found by reading the source rather than working off issue labels
+- **Three merged PRs** into [Automattic/mongoose](https://github.com/Automattic/mongoose) (27k stars) and [redis/node-redis](https://github.com/redis/node-redis) (17k stars), approved by both projects' lead maintainers. Gaps I found by reading the source rather than working off issue labels
 
 ---
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-work-ink-dark.svg"><img src="assets/glyph-work-ink-light.svg" width="18" alt=""></picture> Selected Work
+
+### [DeepCS](https://github.com/Wnayar/deepcs) · Distributed · 6 Services
+
+A CS interview question bank you work through alone, or live with a matched partner.
+
+- Six independently deployable services in TypeScript and Fastify, with path filtered CI that builds and health checks each service's image on its own
+- Real-time collaborative editing on WebSockets and Yjs, a CRDT, with edits carried between instances over Redis pub/sub. 250 sockets at p95 4ms on one machine
+- A gateway I wrote rather than bought, verifying Firebase JWTs against Google's JWKS, with rate limiting and partner matching made atomic in Redis Lua
+- One PostgreSQL instance with a schema and a role per service, and an integration test that asserts the database rejects cross-service queries
+- An event pipeline on Redis Streams whose consumer acks only after commit, which is what turns at-least-once delivery into effectively exactly-once
+
+*Built with:* &nbsp;`TypeScript` `Fastify` `PostgreSQL` `Redis` `Yjs` `Docker` `Kubernetes` `GitHub Actions`
 
 ### [Airlock](https://github.com/Wnayar/airlock) · 🏆 1st Place
 
@@ -53,43 +65,24 @@ Own venture. Sole engineer for a fragrance brand launching Dec 2026: storefront,
 
 *Built with:* &nbsp;`TypeScript` `React` `PostgreSQL` `Supabase` `Vercel` `Cloudflare` `Shopify`
 
-### [PeerPrep](https://github.com/Wnayar/PeerPrep) · Distributed · 6 Services
-
-Question Service owned end to end within a distributed 6-service architecture.
-
-- 15 RESTful endpoints with input validation and standardized error handling (400/404/409/500)
-- Moved randomized question selection into MongoDB aggregation pipelines ($match, $sample) instead of the application layer
-- 35 unit and integration tests with Jest and Supertest covering CRUD workflows and the pipelines
-
-*Built with:* &nbsp;`Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `Jest` `Supertest`
-
-### [Study-group platform](https://github.com/Wnayar/NUS-GroupMatch) · NUS Orbital · Apollo 11
-
-NUS Orbital, Apollo 11 Advanced. Full-stack MERN app for creating and discovering study groups, matched on live NUSMods course data.
-
-- REST APIs with session-based auth (express-session, bcrypt) and MVC structure, with MongoDB schemas for users, groups and memberships
-- Parsed nested timetable data (20 to 50+ entries per module) into structured formats with multi-criteria sorting and search
-
-*Built with:* &nbsp;`MongoDB` `Express` `React` `Node.js`
-
 ---
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-skills-ink-dark.svg"><img src="assets/glyph-skills-ink-light.svg" width="18" alt=""></picture> Technical Skills
 
 **Languages**  
-<img src="assets/skills-languages.svg" width="442" alt="JavaScript, TypeScript, Go, Python, Java, C, C++, Bash"/>
+<img src="assets/skills-languages.svg" width="498" alt="JavaScript, TypeScript, Go, Python, Java, C, C++, Bash"/>
 
 **Backend**  
-<img src="assets/skills-backend.svg" width="442" alt="Node.js, Express, Flask"/>
+<img src="assets/skills-backend.svg" width="498" alt="Node.js, Express, Flask, Fastify"/>
 
 **Data**  
-<img src="assets/skills-data.svg" width="442" alt="MongoDB, PostgreSQL, Redis, Supabase, SQLite, Firebase"/>
+<img src="assets/skills-data.svg" width="498" alt="MongoDB, PostgreSQL, Redis, Supabase, SQLite, Firebase"/>
 
 **Infra & Cloud**  
-<img src="assets/skills-infra.svg" width="442" alt="Docker, Google Cloud, AWS, Vercel, Cloudflare, GitHub Actions, Nginx, Linux"/>
+<img src="assets/skills-infra.svg" width="498" alt="Docker, Kubernetes, Google Cloud, AWS, Vercel, Cloudflare, GitHub Actions, Nginx, Linux"/>
 
 **Frontend**  
-<img src="assets/skills-frontend.svg" width="442" alt="React, Next.js, Tailwind CSS, Vite"/>
+<img src="assets/skills-frontend.svg" width="498" alt="React, Next.js, Tailwind CSS, Vite, HTML, CSS"/>
 
 **Tools**  
-<img src="assets/skills-tools.svg" width="442" alt="Git, GitHub, VS Code, Postman"/>
+<img src="assets/skills-tools.svg" width="498" alt="Git, GitHub, VS Code, Postman, Jest"/>
