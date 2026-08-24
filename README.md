@@ -46,7 +46,6 @@ Final-year Computer Science at NUS specialising in Software Engineering, graduat
 - Built payments on Stripe with signature-verified, idempotent webhooks, keeping Stripe's ledger as the source of truth so user access can be rebuilt after any data loss
 - Wrote a test suite containing unit, integration, and end-to-end tests running in CI on every push, to catch regressions and ensure high code quality
 
-*Built with:* &nbsp;`TypeScript` `React` `Cloudflare Workers` `D1` `Stripe` `Firebase`
 
 ### [Mongoose](https://github.com/Automattic/mongoose) & [node-redis](https://github.com/redis/node-redis) · Software Engineer, Open Source
 
@@ -62,19 +61,6 @@ Final-year Computer Science at NUS specialising in Software Engineering, graduat
 - Founded and launched a perfume business (brand, product) as the sole engineer, designer, and operator
 - Built a custom React + TypeScript storefront with reusable components and centralized state, integrating Shopify for checkout to keep payments and compliance off my plate
 - Owned every deadline and deliverable, following through from first commit to a live storefront with paying customers
-
-*Built with:* &nbsp;`React` `TypeScript` `Shopify`
-
----
-
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-education-ink-dark.svg"><img src="assets/glyph-education-ink-light.svg" width="18" alt=""></picture> Education
-
-**National University of Singapore** · Aug 2023 – May 2027
-
-- Bachelor of Computing in Computer Science, specialising in Software Engineering
-- Honours (Distinction)
-
-*Relevant coursework:* &nbsp;Formal Methods for Software Engineering (A) · Communicating in the Information Age (A+) · Big Data Systems for Software Engineering · Data Structures & Algorithms · Design & Analysis of Algorithms · Operating Systems · Computer Networks · Database Systems · AI & Machine Learning · Digital Ethics and Data Privacy (A)
 
 ---
 
