@@ -46,7 +46,6 @@ Final-year Computer Science at NUS specialising in Software Engineering, graduat
 - Built payments on Stripe with signature-verified, idempotent webhooks, keeping Stripe's ledger as the source of truth so user access can be rebuilt after any data loss
 - Wrote a test suite containing unit, integration, and end-to-end tests running in CI on every push, to catch regressions and ensure high code quality
 
-
 ### [Mongoose](https://github.com/Automattic/mongoose) & [node-redis](https://github.com/redis/node-redis) · Software Engineer, Open Source
 
 **Jun 2026 – Jul 2026**
@@ -61,13 +60,6 @@ Final-year Computer Science at NUS specialising in Software Engineering, graduat
 - Founded and launched a perfume business (brand, product) as the sole engineer, designer, and operator
 - Built a custom React + TypeScript storefront with reusable components and centralized state, integrating Shopify for checkout to keep payments and compliance off my plate
 - Owned every deadline and deliverable, following through from first commit to a live storefront with paying customers
-
----
-
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-check-dark.svg"><img src="assets/glyph-achievements-check-light.svg" width="18" alt=""></picture> Awards & Certificates
-
-- **NUS Certificate of Distinction, Software Engineering:** 4.50 GPA across key Software Engineering modules
-- **Hackathon Overall Winner:** 1st Place, AI Builder and Daytona HackSprint 2026
 
 ---
 
