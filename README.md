@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v3.svg" width="100%" alt="William Nayar, backend and distributed systems"/>
+  <img src="assets/banner-v3.svg" width="100%" alt="William Nayar, software engineer"/>
 </p>
 
 <p align="center">
@@ -13,82 +13,94 @@
 </p>
 
 <p align="center">
-Final-year CS at NUS specialising in Software Engineering. I build backend systems and care about where work belongs in a system.<br/>
-Looking for a 6-month SWE internship starting early 2027.
+Software engineer and founder, leading student engineering teams at NUS, building at scale and drawn to hard problems.<br/>
+Final-year Computer Science at NUS specialising in Software Engineering, graduating May 2027.
 </p>
 
 ---
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-currently-ink-dark.svg"><img src="assets/glyph-currently-ink-light.svg" width="18" alt=""></picture> Currently
 
-- Teaching **[CS3219 Software Engineering Principles and Patterns](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns)** at NUS as an academic tutor to a class of twenty, August to December 2026. One of my favourite modules taken in NUS, and the one that opened my eyes to how broad software engineering gets once distributed systems are involved. It is microservices based, so teams spend the semester making real decisions: where a service boundary goes, which database suits the access pattern, how everything gets deployed and stays up. My job is to help them think those through before they commit
-- Building **[Recall](https://github.com/Wnayar/recall)**, a search engine in Go, to understand indexing and retrieval by implementing them rather than reading about them
+- Teaching **[CS3219 Software Design & Architecture](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns)** at NUS, mentoring 11 student engineering teams
+- Building **[DeepCS](https://deepcs.org)**, a learning platform for CS interview preparation, as founder and sole engineer
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-check-dark.svg"><img src="assets/glyph-achievements-check-light.svg" width="18" alt=""></picture> Achievements
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-work-ink-dark.svg"><img src="assets/glyph-work-ink-light.svg" width="18" alt=""></picture> Experience
 
-- **1st place, Daytona HackSprint** by AI Builders at NUS (July 2026), for **Airlock** (below), a safety gate for AI agents
-- **Certificate of Distinction**, Software Engineering, NUS School of Computing: 4.50 GPA across key Software Engineering modules
-- **Three merged PRs** into [Automattic/mongoose](https://github.com/Automattic/mongoose) (27k stars) and [redis/node-redis](https://github.com/redis/node-redis) (17k stars), approved by both projects' lead maintainers. Gaps I found by reading the source rather than working off issue labels
-- **Orbital Apollo 11 Certification**, NUS: advanced independent software development project
-- **HackerRank Software Engineering Certification**: Problem Solving, SQL
+### NUS · Teaching Assistant, Software Design & Architecture (CS3219)
+
+**Aug 2026 – Present**
+
+- Mentor 11 student engineering teams through the full software development lifecycle, guiding the design, build, testing, and deployment of distributed microservices applications with REST APIs, Docker, and CI/CD
+- Lead weekly classes of 30 students on large-scale system design, architecture trade-offs, and maintainable engineering practices
+- Iterate on course materials weekly with professors, turning student feedback and recurring misconceptions into improved tutorials
+
+### [DeepCS](https://github.com/Wnayar/deepcs) · Founder & Software Engineer · [deepcs.org](https://deepcs.org)
+
+**Jul 2026 – Present**
+
+- Deployed and maintain a full-stack learning platform on Cloudflare Workers and D1, serving the React app and all content from the edge at $0 idle cost
+- Re-architected a 6-service microservices backend (Docker, Redis, WebSockets, PostgreSQL) into a single edge Worker after user feedback showed no demand for live collaboration
+- Secured the API with Firebase JWT verification, a server-side paywall gate, and per-user rate limiting, with no route ever trusting a user id sent by the client
+- Built payments on Stripe with signature-verified, idempotent webhooks, keeping Stripe's ledger as the source of truth so user access can be rebuilt after any data loss
+- Wrote a test suite containing unit, integration, and end-to-end tests running in CI on every push, to catch regressions and ensure high code quality
+
+*Built with:* &nbsp;`TypeScript` `React` `Cloudflare Workers` `D1` `Stripe` `Firebase`
+
+### [Mongoose](https://github.com/Automattic/mongoose) & [node-redis](https://github.com/redis/node-redis) · Software Engineer, Open Source
+
+**Jun 2026 – Jul 2026**
+
+- Improved official documentation for Mongoose (27K+ GitHub stars) and node-redis (17K+ stars), database libraries used by millions of developers, with 3 pull requests reviewed and merged by maintainers
+- Found the gaps while using the libraries in production work: documented an undocumented query option in Mongoose, and traced node-redis source code to correct docs referencing a deprecated API
+
+### [Aqua Vitae Parfums](https://github.com/Wnayar/aqua-vitae) · Founder & Software Engineer · [aquavitaeparfums.com](https://www.aquavitaeparfums.com/)
+
+**Dec 2025 – Mar 2026**
+
+- Founded and launched a perfume business (brand, product) as the sole engineer, designer, and operator
+- Built a custom React + TypeScript storefront with reusable components and centralized state, integrating Shopify for checkout to keep payments and compliance off my plate
+- Owned every deadline and deliverable, following through from first commit to a live storefront with paying customers
+
+*Built with:* &nbsp;`React` `TypeScript` `Shopify`
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-work-ink-dark.svg"><img src="assets/glyph-work-ink-light.svg" width="18" alt=""></picture> Selected Work
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-education-ink-dark.svg"><img src="assets/glyph-education-ink-light.svg" width="18" alt=""></picture> Education
 
-### [DeepCS](https://github.com/Wnayar/deepcs) · Distributed · 6 Services
+**National University of Singapore** · Aug 2023 – May 2027
 
-Solve CS interview questions solo or live with a matched partner.
+- Bachelor of Computing in Computer Science, specialising in Software Engineering
+- Honours (Distinction)
 
-- Built a distributed 6-service backend in TypeScript and Fastify, with path-filtered CI building and health-checking each service's image independently
-- Built real-time collaborative editing on WebSockets and Yjs (CRDT), syncing edits across instances via Redis pub/sub, 250 sockets at p95 4 ms on one machine
-- Built a custom API gateway with Firebase JWT verification against Google's JWKS, and made rate limiting and partner matching atomic with Redis Lua scripts
-- Designed the data layer as one PostgreSQL instance with a schema and role per service, with an integration test asserting the database rejects cross-service queries
-- Built an event pipeline on Redis Streams with a consumer that acks after commit, making at-least-once delivery effectively exactly-once
-- In progress: running the stack on Kubernetes locally. Future: a GKE/GCP sprint, a Kafka adapter behind the event-log interface, and Drizzle over the pg layer
+*Relevant coursework:* &nbsp;Formal Methods for Software Engineering (A) · Communicating in the Information Age (A+) · Big Data Systems for Software Engineering · Data Structures & Algorithms · Design & Analysis of Algorithms · Operating Systems · Computer Networks · Database Systems · AI & Machine Learning · Digital Ethics and Data Privacy (A)
 
-*Built with:* &nbsp;`TypeScript` `Fastify` `SQL` `Redis` `Docker` `Kubernetes`
+---
 
-### [Airlock](https://github.com/Wnayar/airlock) · 🏆 1st Place
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-check-dark.svg"><img src="assets/glyph-achievements-check-light.svg" width="18" alt=""></picture> Awards & Certificates
 
-1st place at the Daytona HackSprint. A safety gate that sits between an AI coding agent and every package it tries to install.
-
-- Each install is detonated in an isolated sandbox before it touches the system, then read statically, matched against known malware, and reputation scored, with an LLM issuing the final verdict
-- Enforced as a hook rather than a wrapper, so the agent cannot route around it
-- Weekend team build; a teammate and I shaped the concept and system design
-
-*Sponsors:* &nbsp;`Daytona` `Nosana` `Doubleword` `Oxylabs` `ai&`
-
-### [Aqua Vitae](https://github.com/Wnayar/aqua-vitae) · [Live Site](https://www.aquavitaeparfums.com/)
-
-Founder and developer. Perfumes that I make and sell myself.
-
-- Designed a scalable frontend architecture using re-usable layouts, modals, and state management techniques, enabling ~70% code sharing and efficient creation of new features
-- Implemented centralized cart state management using React Context and localStorage that allows real-time cart data sharing between different parts of the frontend (Navbar, product page, cart, overlays, etc.)
-- Configured CI/CD and production deployment through Vercel, Cloudflare DNS, and GitHub automation
-
-*Built with:* &nbsp;`React` `TypeScript` `PostgreSQL` `Vercel` `Cloudflare`
+- **NUS Certificate of Distinction, Software Engineering:** 4.50 GPA across key Software Engineering modules
+- **Hackathon Overall Winner:** 1st Place, AI Builder and Daytona HackSprint 2026
 
 ---
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-skills-ink-dark.svg"><img src="assets/glyph-skills-ink-light.svg" width="18" alt=""></picture> Technical Skills
 
 **Languages**  
-<img src="assets/skills-languages.svg" width="498" alt="JavaScript, TypeScript, Go, Python, Java, C, C++, Bash"/>
-
-**Backend**  
-<img src="assets/skills-backend.svg" width="498" alt="Node.js, Express, Flask, Fastify"/>
-
-**Data**  
-<img src="assets/skills-data.svg" width="498" alt="MongoDB, PostgreSQL, Redis, Supabase, SQLite, Firebase"/>
-
-**Infra & Cloud**  
-<img src="assets/skills-infra.svg" width="498" alt="Docker, Kubernetes, Google Cloud, AWS, Vercel, Cloudflare, GitHub Actions, Nginx, Linux"/>
+<img src="assets/skills-languages.svg" width="498" alt="Python, C, C++, Java, JavaScript, TypeScript, Bash"/>  
+*Also:* &nbsp;`SQL`
 
 **Frontend**  
-<img src="assets/skills-frontend.svg" width="498" alt="React, Next.js, Tailwind CSS, Vite, HTML, CSS"/>
+<img src="assets/skills-frontend.svg" width="498" alt="React, HTML, CSS, Tailwind CSS"/>
 
-**Tools**  
-<img src="assets/skills-tools.svg" width="498" alt="Git, GitHub, VS Code, Postman, Jest"/>
+**Backend & Systems**  
+<img src="assets/skills-backend.svg" width="498" alt="Node.js, Fastify, Express, Flask, Unix/Linux"/>  
+*Also:* &nbsp;`REST APIs` `WebSockets` `Distributed Systems` `TCP/IP` `HTTP`
+
+**Databases**  
+<img src="assets/skills-data.svg" width="498" alt="PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase"/>
+
+**Cloud & Tools**  
+<img src="assets/skills-infra.svg" width="498" alt="Google Cloud, AWS, Nginx, Cloudflare, Docker, Git, GitHub Actions, Jest, Postman"/>  
+*Also:* &nbsp;`CI/CD` `Vitest`
