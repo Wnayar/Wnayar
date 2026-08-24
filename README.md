@@ -63,6 +63,13 @@ Final-year Computer Science at NUS specialising in Software Engineering, graduat
 
 ---
 
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-achievements-check-dark.svg"><img src="assets/glyph-achievements-check-light.svg" width="18" alt=""></picture> Awards & Certificates
+
+- **NUS Certificate of Distinction, Software Engineering:** 4.50 GPA across key Software Engineering modules
+- **Hackathon Overall Winner:** 1st Place, AI Builder and Daytona HackSprint 2026
+
+---
+
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-skills-ink-dark.svg"><img src="assets/glyph-skills-ink-light.svg" width="18" alt=""></picture> Technical Skills
 
 **Languages**  
